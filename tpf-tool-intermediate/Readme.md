@@ -26,53 +26,54 @@ Content of tpf-tool-intermediate:
 Applications:
 --
 
-- tpf-party (v1.1)
-- tpf-client (v1.1)
-- jmess
-- Ardour6.8
-- uv-qt (Ultragrid 1.6+)
+  - tpf-party (v1.1)
+  - tpf-client (v1.1)
+  - jmess
+  - Ardour6.8
+  - uv-qt (Ultragrid 1.6+)
 
 Scripts:
 --
-- tpf-audio-runner.command
-- tpf-save-audio.command
-- tpf-load-audio.command
+
+  - tpf-audio-runner.command
+  - tpf-save-audio.command
+  - tpf-load-audio.command
 
 Folders:
 --
 
 **tpf-settings:**
 
-- tpf-intermediate-2ch-2loc
-- tpf-intermediate-4ch-4loc
-- tpf-intermediate-default
+  - tpf-intermediate-2ch-2loc
+  - tpf-intermediate-4ch-4loc
+  - tpf-intermediate-default
 
 **tpf-audio-connections:**
 
-- audio-connections-2ch-2loc
-- audio-connections-4ch-4loc
-- audio-connections-default
-- tpf-start (dummy)
+  - audio-connections-2ch-2loc
+  - audio-connections-4ch-4loc
+  - audio-connections-default
+  - tpf-start (dummy)
 
 **ardour-templates:**
 
-- tpf-intermediate-2ch-2loc.ardour
-- tpf-intermediate-4ch-4loc.ardour
-- tpf-intermediate-default.ardour
-- tpf-start.ardour
+  - tpf-intermediate-2ch-2loc.ardour
+  - tpf-intermediate-4ch-4loc.ardour
+  - tpf-intermediate-default.ardour
+  - tpf-start.ardour
 
 **tpf-video:**
 
-- camera-01.command
-- camera-02.command
-- selftest-camera-01.command
-- selftest-camera-02.command
-- video-runner.command
+  - camera-01.command
+  - camera-02.command
+  - selftest-camera-01.command
+  - selftest-camera-02.command
+  - video-runner.command
 
 **tpf-uninstallers:**
 
-- uninstall-jack2-tpf.command
-- uninstall-tpf-tools-intermediate.command
+  - uninstall-jack2-tpf.command
+  - uninstall-tpf-tools-intermediate.command
 
 
 ----
