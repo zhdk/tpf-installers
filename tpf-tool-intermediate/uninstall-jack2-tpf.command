@@ -95,4 +95,3 @@ echo "-----------------------------------------------------------"
 echo -e "\033[1;34m [1/78]  --> [Done] --> close.\033[0m"
 sleep 1
 osascript -e 'tell application "Terminal" to close first window' & exit
-exit
