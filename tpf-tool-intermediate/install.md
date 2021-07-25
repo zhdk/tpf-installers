@@ -21,6 +21,7 @@ Note:
 --
 
 Sometimes it is recommended to uninstall an old 'jack installation' first!
+
 The 'uninstaller jack2-tpf' uninstalls only jack2.
 
 Set up an Aggregate Device
