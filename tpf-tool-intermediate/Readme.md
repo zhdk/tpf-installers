@@ -4,10 +4,11 @@ Institute for Computer Music and Sound Technology (ICST) / Zurich University of 
 ----
 
 ‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video. 
+
 Version 1.1 is compatible with macOS 10.14+ (only Intel).
 
-###Important
-
+Important
+--
 
 Make sure that you have installed jack2 for osx!
 
@@ -19,11 +20,11 @@ see:
 https://networkperformance.space.
 
 
-##Content of tpf-tool-intermediate:
+Content of tpf-tool-intermediate:
+--
 
-
-###Applications:
-
+Applications:
+--
 
 - tpf-party (v1.1)
 - tpf-client (v1.1)
@@ -31,14 +32,14 @@ https://networkperformance.space.
 - Ardour6.8
 - uv-qt (Ultragrid 1.6+)
 
-###Scripts:
-
+Scripts:
+--
 - tpf-audio-runner.command
 - tpf-save-audio.command
 - tpf-load-audio.command
 
-
-###Folders:
+Folders:
+--
 
 **tpf-settings:**
 
@@ -68,7 +69,7 @@ https://networkperformance.space.
 - selftest-camera-02.command
 - video-runner.command
 
-**pf-uninstallers:**
+**tpf-uninstallers:**
 
 - uninstall-jack2-tpf.command
 - uninstall-tpf-tools-intermediate.command
@@ -77,10 +78,10 @@ https://networkperformance.space.
 ----
 
 
-##Start the tpf-tools-intermediate:
+Start the tpf-tools-intermediate:
+--
 
-
-After installation, start your session:
+**After installation, start your session:**
 
 Audio: double-click the file ‘tpf-audio-runner.command’ 
 from the folder ’tpf-tools-intermediate’. Follow the instructions in the terminal window.
@@ -89,28 +90,36 @@ Video: double-click the file ‘video-runner.command’ from the ‘tpf-video’
 
 Follow the instructions in the terminal window.
 
+----
 
-###About Ardour 6.8
+About Ardour 6.8
+--
 view: https://ardour.org/
 
-###About Ultragrid
+About Ultragrid
+--
 view: http://www.ultragrid.cz/
 
-###About TPF-Client
+About TPF-Client
+--
 view: https://github.com/zhdk/tpf-client
 view: https://networkperformance.space 
 
 (including manuals)
 
+----
 
-###Authors:
+Authors:
+--
 
 * Roman Haefeli <roman.haefeli@zhdk.ch>
 * Johannes Schütt <johannes.schuett@zhdk.ch>
 * TPF-Team @ Zurich University of the Arts (ZHdK)
 
-###License
+License
+--
 
 GPL 3.0 (view LICENSE.txt)
+
 
 -----
