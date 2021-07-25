@@ -95,4 +95,4 @@ echo "-----------------------------------------------------------"
 echo -e "\033[1;34m [1/11]  --> [Done] --> close.\033[0m"
 sleep 2
 osascript -e 'quit app "Terminal.app"'
-
+exit
