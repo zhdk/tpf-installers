@@ -92,7 +92,7 @@ sudo $MV "/usr/local/lib/pkgconfig/jack.pc"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/share/jack2/jack2-osx-files.txt"	$TRASH 2>>$ERR
 sudo rm -R /Applications/QjackCtl.app 
 echo "-----------------------------------------------------------"
-echo -e "\033[1;34m [1/11]  --> [Done] --> close.\033[0m"
-sleep 2
-osascript -e 'quit app "Terminal.app"'
+echo -e "\033[1;34m [1/78]  --> [Done] --> close.\033[0m"
+sleep 1
+osascript -e 'tell application "Terminal" to close first window' & exit
 exit
