@@ -38,9 +38,7 @@ For further information, see https://support.apple.com/en-us/HT202000.
 02 Install tpf-tool-intermediate
 --
 
-- Download the 'tpf-tool-intermediate.pkg.zip' ---> GitHub: https://github.com/zhdk/tpf-installers
-
-- unzip 'tpf-tool-intermediate.pkg.zip'
+- Download the 'tpf-tool-intermediate.pkg' ---> GitHub: https://github.com/zhdk/tpf-installer
 
 - Right-click the 'tpf-tool-intermediate.pkg' and follow the installer instructions.
 
