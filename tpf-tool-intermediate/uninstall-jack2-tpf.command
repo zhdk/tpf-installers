@@ -50,6 +50,7 @@ sudo $MV "/usr/local/bin/jack_unload"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/bin/jack_wait"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/bin/jack_zombie"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/bin/jackd"	$TRASH 2>>$ERR
+sudo $MV "/usr/local/bin/jmess"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/include/jack/control.h"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/include/jack/intclient.h"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/include/jack/jack.h"	$TRASH 2>>$ERR
@@ -92,6 +93,6 @@ sudo $MV "/usr/local/lib/pkgconfig/jack.pc"	$TRASH 2>>$ERR
 sudo $MV "/usr/local/share/jack2/jack2-osx-files.txt"	$TRASH 2>>$ERR
 sudo rm -R /Applications/QjackCtl.app 
 echo "-----------------------------------------------------------"
-echo -e "\033[1;34m [1/78]  --> [Done] --> close.\033[0m"
+echo -e "\033[1;34m [1/79]  --> [Done] --> close.\033[0m"
 sleep 1
 osascript -e 'tell application "Terminal" to close first window' & exit
