@@ -17,6 +17,7 @@ Installers for the tpf-tools v.1.1
 
 - added the 'TPF-Client.app compiled for 'jack2' to the installer. 
 - updated the 'uninstaller jack2.command'.
+- updated the 'uninstall-tpf-tool-intermediate.command'.
 - updated the 'tpf-audio-runner.command'.
 - added new 'tpf-video-runner'.
 - added new 'INSTALL.txt'.
