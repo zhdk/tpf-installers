@@ -24,4 +24,6 @@ Installers for the tpf-tools v.1.1
 - added new 'Readme.md & Readme.pdf.
 - added new 'tpf-tool-intermediate v.1.1.pkg.zip'
 
+- Midi-controllers works now!
+- 
 ----
