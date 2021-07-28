@@ -2,13 +2,14 @@
 
 Installers for the tpf-tools v.1.1
 
-  - tpf-tool-basic
-  - tpf-tool-intermediate
+  - tpf-tools-basic
+  - tpf-tools-intermediate
 
 -----
+
 # NEW
 
-## tpf-tool-intermediate v.1.1:
+## tpf-tools-intermediate v.1.1:
 - removed 'jmess' from the tpf tools. 
 - removed the 'tpf-audio-connections' 
 - removed the 'tpf-load-audio.command'.
@@ -17,12 +18,12 @@ Installers for the tpf-tools v.1.1
 
 - added the 'TPF-Client.app compiled for 'jack2' to the installer. 
 - updated the 'uninstaller jack2.command'.
-- updated the 'uninstall-tpf-tool-intermediate.command'.
+- updated the 'uninstall-tpf-tools-intermediate.command'.
 - updated the 'tpf-audio-runner.command'.
 - added new 'tpf-video-runner'.
 - added new 'INSTALL.txt'.
 - added new 'Readme.md & Readme.pdf.
-- added new 'tpf-tool-intermediate v.1.1.pkg.zip'
+- added new 'tpf-tools-intermediate v.1.1.pkg.zip'
 
 - Midi-controllers works now!
   -  Default "x-Touch One"
