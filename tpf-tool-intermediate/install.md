@@ -1,45 +1,26 @@
 
-01 Installation guide: 'tpf-tools-intermediate.
---
+# Installation guide 'tpf-tools-intermediate’
+
+‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video.
 
 Version 1.1 is compatible with macOS 10.14+ (only Intel).
 
-'jack2' pre-installation:
---
-
-Make sure you have 'jack2' for osx installed! 
-
-If not, follow these steps:
+For further information about ‘tpf-tools-intermediate’ see: 
+* https://github.com/zhdk/tpf-client and
+* https://networkperformance.space (including manuals).
 
 
-Go to https://jackaudio.org/downloads/ and download one of these installers or newer:
 
-Install 'jack2' for osx by following the instructions of the installer.
+## Download and installation 
 
-	 - Intel 64bit Installer: JACK 1.9.19 macOS-intel.
-	 - Universal Installer: JACK 1.9.19 macOS-universal.	 
+* Download 'tpf-tools-intermediate.pkg.zip' from GitHub: https://github.com/zhdk/tpf-installers/releases;
 
-Note: 
---
+* Right-click and open 'tpf-tools-intermediate.pkg' and follow the instructions of the installer window.
 
-Sometimes it is recommended to uninstall an old 'jack installation' first!
 
-The 'uninstall jack2-tpf' uninstalls only jack2.
+## Important
 
-Set up an Aggregate Device
---
+Make sure that you have installed JACK2; for download and installation see: https://jackaudio.org/downloads/. Sometimes it is recommended to uninstall an old installation of JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; it only uninstalls JACK2.
 
-After installation of 'jack2 osx', you have to create an 'aggregate device'. 
-
-For further information, see https://support.apple.com/en-us/HT202000.
-
------
-
-02 Install tpf-tool-intermediate
---
-
-- Download the 'tpf-tool-intermediate.pkg' ---> GitHub: https://github.com/zhdk/tpf-installers/releases
-
-- Right-click the 'tpf-tool-intermediate.pkg' and follow the installer instructions.
-
+Make sure that you have created an ’Aggregate Device’ in the ‘Audio MIDI Setup’ of your computer, for further information see https://support.apple.com/en-us/HT202000.
 
