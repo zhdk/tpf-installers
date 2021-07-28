@@ -9,7 +9,7 @@ Installers for the tpf-tools v.1.1
 
 # NEW
 
-## tpf-tools-intermediate v.1.1:
+## tpf-tools-intermediate v.1.1
 - removed 'jmess' from the tpf tools. 
 - removed the 'tpf-audio-connections' 
 - removed the 'tpf-load-audio.command'.
