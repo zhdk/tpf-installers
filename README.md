@@ -17,12 +17,12 @@ Installers for the tpf-tools v.1.1
 (no longer necessary for the tpf-tools v1.1)
 
 - added the 'TPF-Client.app compiled for 'jack2' to the installer. 
-- updated the 'uninstaller jack2.command'.
+- updated the 'uninstaller-tpf-jack2.command'.
 - updated the 'uninstall-tpf-tools-intermediate.command'.
 - updated the 'tpf-audio-runner.command'.
 - added new 'tpf-video-runner'.
-- added new 'INSTALL.txt'.
-- added new 'Readme.md & Readme.pdf.
+- added new 'install.txt'.
+- added new 'readme.md & readme.pdf.
 - added new 'tpf-tools-intermediate v.1.1.pkg.zip'
 
 - Midi-controllers works now!
