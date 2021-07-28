@@ -20,7 +20,7 @@ Installers for the tpf-tools v.1.1
 - updated the 'uninstaller-tpf-jack2.command'.
 - updated the 'uninstall-tpf-tools-intermediate.command'.
 - updated the 'tpf-audio-runner.command'.
-- added new 'tpf-video-runner'.
+- added new 'tpf-video-runner.command'.
 - added new 'install.txt'.
 - added new 'readme.md & readme.pdf.
 - added new 'tpf-tools-intermediate v.1.1.pkg.zip'
