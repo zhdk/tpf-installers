@@ -37,7 +37,9 @@ Make sure that you have created an ’Aggregate Device’ in the ‘Audio MIDI S
   - tpf-party.app (v1.1.1)
   - tpf-client.app (v1.1.1)
   - Ardour6.8.app
-  - uv-qt.app (Ultragrid 1.6+)
+  - uv-qt.app (Ultragrid 1.6)
+  - LoudMax Loudness Maximizer plugin (by Thomas Mundt).
+
 
 **tpf-audio-scripts:**
 
@@ -98,6 +100,10 @@ Make sure that you have created an ’Aggregate Device’ in the ‘Audio MIDI S
 **About TPF-Client**
 * <https://github.com/zhdk/tpf-client>
 * <https://networkperformance.space> (including manuals)
+
+**LoudMax** (VST/VST3/AU)
+* Loudness Maximizer plugin by Thomas Mundt.
+* <https://loudmax.blogspot.com> for updates.
 
 ----
 
