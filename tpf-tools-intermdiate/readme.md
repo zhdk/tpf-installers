@@ -6,7 +6,7 @@
 
 ‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video.
 
-Version 1.1 is compatible with macOS 10.14+ (only Intel).
+Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 For further information about ‘tpf-tools-intermediate’ see: 
 * https://github.com/zhdk/tpf-client and
@@ -34,8 +34,8 @@ Make sure that you have created an ’Aggregate Device’ in the ‘Audio MIDI S
 
 **applications:**
 
-  - tpf-party.app (v1.1)
-  - tpf-client.app (v1.1)
+  - tpf-party.app (v1.1.1)
+  - tpf-client.app (v1.1.1)
   - Ardour6.8.app
   - uv-qt.app (Ultragrid 1.6+)
 
