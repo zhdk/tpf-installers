@@ -11,7 +11,7 @@ For further information about ‘tpf-tools-intermediate’ see:
 
 ## Download and installation 
 
-* Download 'tpf-tools-intermediate.pkg.zip' from GitHub: https://github.com/zhdk/tpf-installers/releases;
+* Download 'tpf-tools-intermediate.pkg' from GitHub: https://github.com/zhdk/tpf-installers/releases;
 
 * Right-click and open 'tpf-tools-intermediate.pkg' and follow the instructions of the installer window.
 
