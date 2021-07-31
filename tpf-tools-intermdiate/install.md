@@ -2,12 +2,11 @@
 
 ‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video.
 
-Version 1.1 is compatible with macOS 10.14+ (only Intel).
+Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 For further information about ‘tpf-tools-intermediate’ see: 
 * https://github.com/zhdk/tpf-client and
 * https://networkperformance.space (including manuals).
-
 
 
 ## Download and installation 
