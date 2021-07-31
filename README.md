@@ -23,7 +23,7 @@ Installers for the tpf-tools v1.1.1
 - added new 'tpf-video-runner.command'.
 - added new 'install.txt'.
 - added new 'readme.md & readme.pdf.
-- added new 'tpf-tools-intermediate v1.1.1.pkg.zip'
+- added new 'tpf-tools-intermediate v1.1.1.pkg'
 
 - Midi-controllers works now!
   -  Default "x-Touch One"
