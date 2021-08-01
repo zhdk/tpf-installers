@@ -9,7 +9,7 @@
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 For further information about ‘tpf-tools-intermediate’ see: 
-* https://github.com/zhdk/tpf-client and
+* https://github.com/zhdk/tpf-client 
 * https://networkperformance.space (including manuals).
 
 
