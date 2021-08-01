@@ -33,8 +33,9 @@ More information and instructions can be found at:<https://networkperformance.sp
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
 
+-----
 
-## New
+**New**
 - removed 'jmess' from the tpf tools. 
 - removed the 'tpf-audio-connections' 
 - removed the 'tpf-load-audio.command'.
