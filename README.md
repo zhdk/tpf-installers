@@ -32,7 +32,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
 * Download the 'install-tpf-tools-intermediate.pkg'
-* Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
+
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
