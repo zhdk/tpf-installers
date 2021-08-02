@@ -3,7 +3,7 @@ room <room>
 name <name>
 port 3025
 audioport 4460
-channels 2
+channels 8
 blocksize 128
 recvbuf 12
 peer_name 8 empty
