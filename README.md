@@ -1,8 +1,12 @@
 # tpf-installers
 
-Installers for the tpf-tools v1.1.1
+# Installers for the tpf-tools v1.1.1
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
+
+## Important
+
+Make sure that you have installed **JACK2**; for download and installation see: https://jackaudio.org/downloads/. Sometimes it is recommended to uninstall an old installation of JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; it only uninstalls JACK2.
 
 ----
 
