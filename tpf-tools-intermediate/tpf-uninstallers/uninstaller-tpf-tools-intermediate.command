@@ -1,17 +1,15 @@
 #!/bin/bash
 reset
 ##############################################################################################
-echo "Welcome to the TPF-TOOL Uninstaller"
+echo "Welcome to the uninstaller-tpf-tools-intermediate.command"
 echo "Please run this as Root"
 echo "Requires an admin password!"
-echo "The following packages will be REMOVED:"
-echo "Uninstalling now all TPF-Tools-intermediate."
 echo "----------------------------------------------"
 echo "The following packages will be REMOVED:"
 echo "[1/1] Ardour6.0.app"
 echo "[1/2] uv-qt.app (ultragrid)"
 echo "[1/3] LoudMax Plugins"
-echo "[1/4] tpf-tool-intermediate folder"
+echo "[1/4] tpf-tools-intermediate folder"
 echo -e "\033[1;31m Make sure you have backed up all templates and Ardour sessions!!!! \033[0m"
 echo "------------------------------------------------------------------------"
 # init
@@ -24,7 +22,7 @@ pause 'Press [Enter] key to continue...'
 # Need to replace these with install preparation script
 # VERSION=1.1.1
 # PRODUCT=tpf-client
-echo -e "\033[1;34m You delete all Applications from TPF-TOOLS.\033[0m"
+echo -e "\033[1;34m You now delete all applications of the tpf-tools-intermediate package.\033[0m"
 echo "Application uninstalling process started"
 echo "-----------------------------------------------------------"
 echo "[1/1] uninstall now Ardour6.app"
