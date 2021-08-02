@@ -50,8 +50,8 @@ More information and instructions can be found at:<https://networkperformance.sp
 * updated the 'uninstall-tpf-tools-intermediate.command'.
 * updated the 'tpf-audio-runner.command'.
 * new 'tpf-video-runner.command'.
-* new '_install.txt'.
-* new '_readme.md & _readme.pdf.
+* new 'install.txt'.
+* new 'readme.md and readme.pdf.
 * new 'tpf-tools-intermediate v1.1.1.pkg'
 * Midi-controllers works now!
 
