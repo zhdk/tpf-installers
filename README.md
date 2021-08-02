@@ -40,14 +40,14 @@ More information and instructions can be found at:<https://networkperformance.sp
 * removed the 'tpf-audio-connections' 
 * removed the 'tpf-load-audio.command'.
 * removed the 'tpf-save-audio.command'.
-* (no longer necessary for the tpf-tools v1.1.1)
-* added the 'TPF-Client.app compiled for 'jack2' to the installer. 
+* added the 'TPF-Client.app compiled for 'jack2'. 
+* added the 'TPF-Party.app compiled for 'jack2'. 
 * updated the 'uninstaller-tpf-jack2.command'.
 * updated the 'uninstall-tpf-tools-intermediate.command'.
 * updated the 'tpf-audio-runner.command'.
 * new 'tpf-video-runner.command'.
-* new 'install.txt'.
-* new 'readme.md & readme.pdf.
+* new '_install.txt'.
+* new '_readme.md & _readme.pdf.
 * new 'tpf-tools-intermediate v1.1.1.pkg'
 * Midi-controllers works now!
 
