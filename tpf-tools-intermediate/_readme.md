@@ -1,4 +1,4 @@
-##Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
+## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
 
@@ -6,7 +6,7 @@
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 
-###Important
+### Important
 
 
 Make sure that you have installed jack2 for osx!
@@ -22,10 +22,10 @@ see:
 ----
 
 
-##Content of tpf-tools-intermediate:
+## Content of tpf-tools-intermediate:
 
 
-###Applications:
+### Applications:
 
 
 - tpf-party (v1.1.1)
@@ -33,14 +33,14 @@ see:
 - Ardour6.8
 - uv-qt (Ultragrid 1.6)
 
-###Scripts:
+### Scripts:
 
 - tpf-audio-runner.command
 - tpf-save-audio.command
 - tpf-load-audio.command
 
 
-###Folders:
+### Folders:
 
 **tpf-settings:**
 
@@ -74,7 +74,7 @@ see:
 ----
 
 
-##Start the tpf-tools-intermediate:
+## Start the tpf-tools-intermediate:
 
 
 - After installation, start your session:
@@ -89,7 +89,7 @@ see:
 
 ----
 
-###About Applications
+### About Applications
 
 
 **Ardour 6.8**
@@ -121,7 +121,7 @@ Loudness Maximizer plugin by Thomas Mundt.
 
 ----
 
-###Authors:
+### Authors:
 
 * Roman Haefeli <roman.haefeli@zhdk.ch>
 * Johannes Schütt <johannes.schuett@zhdk.ch>
@@ -129,7 +129,7 @@ Loudness Maximizer plugin by Thomas Mundt.
 
 -----
 
-###License
+### License
 
 GPL 3.0 (view LICENSE.txt)
 
