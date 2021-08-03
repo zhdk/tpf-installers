@@ -27,10 +27,11 @@ while true; do
     [[ $answer == "n" || $answer == "N" ]] && exit 0
 done
 echo -e "\033[1;32m First we will create the configuration of your video settings. \033[0m"
+echo -e "\033[1;32m First "
 echo -e "\033[1;31m [1/1] What is your camera device?  \033[0m"
-echo -e "\033[1;33m Built-in video camera = device 0 \033[0m"
-echo -e "\033[1;33m External USB-camera = device 1 \033[0m"
-echo -e "\033[1;33m Built-in video camera (alternative) = device 2 \033[0m"
+echo -e "\033[1;33m Built-in video camera (alternative) = device 0 \033[0m"
+echo -e "\033[1;33m Built-in video camera  = device 1 \033[0m"
+echo -e "\033[1;33m External USB-camera = device 2 \033[0m"
 while true; do
     read -p "Choose your camera by writing the respective number:     " device
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
@@ -82,7 +83,7 @@ echo -e "\033[1;33m For a self-test of your camera write ‘127.0.0.1’ or ‘l
 echo -e "\033[1;33m For a peer-to-peer connection, write the public IP-address of your remote partner. \033[0m"
 echo -e "\033[1;33m For connecting through a server, write the server name (e.g. telematic.zhdk.ch). \033[0m"
 while true; do
-    read -p "Choose your port by writing the appropriate number:           " server
+    read -p "Choose your ip-address by writing the appropriate number:           " server
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
 done
