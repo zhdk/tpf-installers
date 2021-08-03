@@ -36,8 +36,7 @@ see:
 ### Scripts:
 
 - tpf-audio-runner.command
-- tpf-save-audio.command
-- tpf-load-audio.command
+- tpf-video-runner.command
 
 
 ### Folders:
@@ -57,12 +56,12 @@ see:
 
 **tpf-video:**
 
-- camera-01.command
-- camera-02.command
-- camera-03.command
-- selftest-camera-01.command
-- selftest-camera-02.command
-- selftest-camera-03.command
+- camera-0.command
+- camera-1.command
+- camera-2.command
+- selftest-camera-0.command
+- selftest-camera-1.command
+- selftest-camera-2.command
 - tpf-video-runner.command
 
 **tpf-uninstallers:**
