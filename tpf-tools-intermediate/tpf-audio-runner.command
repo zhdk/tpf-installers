@@ -110,7 +110,7 @@ echo -e "\033[1;33m Then close/quit the TPF-Client manually. \033[0m"
 echo -e "\033[1;33m Then close/quit Ardour manually. \033[0m" 
 echo "--------------------------------------------------------------------------------------------------------------------"
 while true; do
-echo -e "\033[1;33m You can now close the 'tpf-audio-runner.command' script. \033[0m" 	
+echo -e "\033[1;32m You can now close the 'tpf-audio-runner.command' script. \033[0m" 	
     read -p "Goodbye? [y/n] " answer
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
