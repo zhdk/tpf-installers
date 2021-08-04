@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="tpf-start" sample-rate="48000" end-is-free="1" session-range-is-free="1" id-counter="1420" name-counter="1" event-counter="4" vca-counter="1">
+<Session version="6000" name="tpf-start" sample-rate="48000" end-is-free="1" session-range-is-free="1" id-counter="1580" name-counter="1" event-counter="4" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.8" modified-with="Ardour 6.8"/>
-  <EngineHints backend="JACK" input-device="AUDIO4c" output-device="AUDIO4c"/>
+  <EngineHints backend="JACK" input-device="TPF-TOOL-USB-Mic" output-device="TPF-TOOL-USB-Mic"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
     <Port name="MMC in" direction="input"/>

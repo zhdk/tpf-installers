@@ -26,24 +26,19 @@ while true; do
 done
 reset
 echo -e "\033[1;31m [1/1] First, the script opens the Digital Audio Workstation ‘Ardour6’ from ‘Applications’.\033[0m"
-echo -e "\033[1;33m When an info box with this message appears: \033[0m"
-echo "	-->'Engine I/O device has changed since you last opened this session.'"
-echo "	-->'Please verify that the new device has enough ports, or you may lose some i/o connections'."
-echo -e "\033[1;33m Confirm the window “Engine I/O device has changed …” with ‘OK’. \033[0m"
 echo -e "\033[1;32m Adour6 now opens with the template 'start-tpf', from the folder 'ardour-templates', \033[0m"
 echo -e "\033[1;32m this is the template to set up your audio drivers. \033[0m"
+echo -e "\033[1;32m In the ‘Audio/MIDI Setup’ window, choose the Audio-System ‘Jack’ and your Aggregate Device as your Device. \033[0m"
+echo -e "\033[1;31m --> press 'Start'!\033[0m"
+echo -e "\033[1;33m	   Note:\033[0m"
+echo -e "\033[1;33m 		    When an info box with this message appears: \033[0m"
+echo -e "\033[1;33m			-->'Engine I/O device has changed since you last opened this session.' \033[0m"
+echo -e "\033[1;33m			-->'Please verify that the new device has enough ports, or you may lose some i/o connections'.\033[0m"
+echo -e "\033[1;33m 	 	    Confirm the window “Engine I/O device has changed …” with ‘OK’. \033[0m"
 open /Applications/tpf-tools-intermediate/ardour-templates/tpf-start/tpf-start.ardour
 echo "--------------------------------------------------------------------------------------------------------------------"
 while true; do
     read -p "Has Ardour opened?  [y/n] " answer
-    [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
-    [[ $answer == "n" || $answer == "N" ]] && exit 0
-done
-echo -e "\033[1;32m In the ‘Audio/MIDI Setup’ window, choose the Audio-System ‘Jack’ and your Aggregate Device as your Device. \033[0m"
-echo -e "\033[1;33m Choose the Audio-System 'Jack' and your 'Aggregate Device' as your Device.\033[0m"
-echo "--------------------------------------------------------------------------------------------------------------------"
-while true; do
-    read -p "Have you entered these settings?  [y/n] " answer
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
 done
@@ -62,7 +57,7 @@ echo -e "\033[1;32m To open a new session, press 'command' & 'o' and select a se
 echo -e "\033[1;32m or press ‘Open…’ in Ardour’s ‘Session’ menu. '\033[0m"
 echo "--------------------------------------------------------------------------------------------------------------------"
 while true; do
-    read -p "Do you wish to continue? [y/n] " answer
+    read -p "Has your Ardour template opened? [y/n] " answer
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
     echo "Please answer with 'y' or 'n'"
