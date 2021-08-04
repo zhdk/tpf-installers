@@ -26,10 +26,11 @@ while true; do
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
 done
-echo -e "\033[1;32m Firswe will create the configuration of your video settings. \033[0m"
+echo -e "\033[1;32m First we will create the configuration of your video settings. \033[0m"
+echo -e "\033[1;31m [1/1] What is your camera device?  \033[0m"
+
 echo -e "\033[1;33m In the ‘tpf-tools-intermediate’ folder check the three ‘selftests-camera-x.commands’ \033[0m"
 echo -e "\033[1;33m and find out the number x of your built-in or your USB-camera you want to use. \033[0m"
-echo -e "\033[1;31m [1/1] What is your camera device?  \033[0m"
 echo -e "\033[1;33m Built-in video camera (alternative) = device 0 \033[0m"
 echo -e "\033[1;33m Built-in video camera  = device 1 \033[0m"
 echo -e "\033[1;33m External USB-camera = device 2 \033[0m"
