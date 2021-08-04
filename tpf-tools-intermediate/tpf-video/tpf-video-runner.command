@@ -83,7 +83,7 @@ echo -e "\033[1;33m For a self-test of your camera write ‘127.0.0.1’ or ‘l
 echo -e "\033[1;33m For a peer-to-peer connection, write the public IP-address of your remote partner. \033[0m"
 echo -e "\033[1;33m For connecting through a server, write the server name (e.g. telematic.zhdk.ch). \033[0m"
 while true; do
-    read -p "Choose your ip-address by writing the appropriate number:           " server
+    read -p "Choose the address of your partner by writing the server address or IP-address:           " server
     [[ $answer == "y" || $answer == "Y" || $answer == "" ]] && break
     [[ $answer == "n" || $answer == "N" ]] && exit 0
 done
