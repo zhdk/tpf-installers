@@ -12,16 +12,16 @@ For further information about ‘tpf-tools-basic’, including manuals, see:<htt
 
 ## tpf-tools-basic
 
-**Download:**
+## Download:
 * Go to: <>
 * Download the ' ' file.
 
-**Installation:**
+## Installation:**
 
 
   ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
   
-### Start the 'tpf-tools-basic':
+## Start the 'tpf-tools-basic':
 
 * After installation, start your audio session: double-click the ﬁle ’tpf-party.app’ from the folder ’tpf-tools-basic’.  
 * Click on ‘Settings’ and choose your connection parameters by entering server name, room name and your name in the respective boxes. 
