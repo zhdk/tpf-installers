@@ -1,7 +1,7 @@
 # Installers for the tpf-tools v1.1.1
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
-* * **tpf-tools-advanced** --> coming soon...
+* **_tpf-tools-advanced_** --> coming soon...
 
 ## Important
 
