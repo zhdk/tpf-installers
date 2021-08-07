@@ -26,9 +26,9 @@ More information and instructions can be found at:<https://networkperformance.sp
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
 -----
-## tpf-tools-basic v1.1.1
 
-## tpf-tools-intermediate v1.1.1
+
+# tpf-tools-intermediate v1.1.1
 
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
