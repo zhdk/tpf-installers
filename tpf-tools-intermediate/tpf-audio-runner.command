@@ -26,15 +26,9 @@ while true; do
 done
 reset
 echo -e "\033[1;31m [1/1] First, the script opens the Digital Audio Workstation ‘Ardour6’ from ‘Applications’.\033[0m"
-echo -e "\033[1;32m Adour6 now opens with the template 'start-tpf', from the folder 'ardour-templates', \033[0m"
-echo -e "\033[1;32m this is the template to set up your audio drivers. \033[0m"
-echo -e "\033[1;32m In the ‘Audio/MIDI Setup’ window, choose the Audio-System ‘Jack’ and your Aggregate Device as your Device. \033[0m"
-echo -e "\033[1;31m --> press 'Start'!\033[0m"
-echo -e "\033[1;33m	   Note:\033[0m"
-echo -e "\033[1;33m 		    When an info box with this message appears: \033[0m"
-echo -e "\033[1;33m			-->'Engine I/O device has changed since you last opened this session.' \033[0m"
 echo -e "\033[1;33m			-->'Please verify that the new device has enough ports, or you may lose some i/o connections'.\033[0m"
-echo -e "\033[1;33m 	 	    Confirm the window “Engine I/O device has changed …” with ‘OK’. \033[0m"
+echo -e "\033[1;32m The ‘Audio/MIDI Setup’ window opens. Choose the Audio System ‘Jack’ and your ‘Aggregate Device’ as your Device. \033[0m"
+echo -e "\033[1;32m Then press ’Start’. Ardour opens with the template ’start-tpf.ardour’ from the folder ‘ardour-templates’. \033[0m"
 open /Applications/tpf-tools-intermediate/ardour-templates/tpf-start/tpf-start.ardour
 echo "--------------------------------------------------------------------------------------------------------------------"
 while true; do
