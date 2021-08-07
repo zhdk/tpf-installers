@@ -23,7 +23,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 -----
 
 
-# tpf-tools-intermediate v1.1.1
+# tpf-tools-intermediate 
 
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
