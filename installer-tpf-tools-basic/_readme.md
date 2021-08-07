@@ -6,8 +6,20 @@ Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 For further information about ‘tpf-tools-basic’, including manuals, see:<https://networkperformance.space>.
 
-## 
+## tpf-tools-basic
 
+**Download:**
+* Go to: <https://github.com/zhdk/tpf-client/releases/tag/party-v1.1.1>
+* Download the 'tpf-party-v1.1.1.dmg' file.
+
+**Installation:**
+* Open the 'tpf-party-v1.1.1.dmg' file.
+* Drag the 'tpf-party.app' to your 'application folder' and drop it there.
+* Open the 'tpf-party.app' with the right mouse button, or with 'Ctrl & Click'.
+
+More information and instructions can be found at:<https://networkperformance.space>
+
+***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 ### Start the 'tpf-tools-basic':
 
 * After installation, start your audio session: double-click the ﬁle ’tpf-party.app’ from the folder ’tpf-tools-basic’.  
