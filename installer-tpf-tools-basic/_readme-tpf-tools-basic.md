@@ -2,7 +2,7 @@
 
 -----
 
-# ‘tpf-tools-basic’
+# tpf-tools-basic
 
 'tpf-tools-basic' is a tool for low-latency, bidirectional transmission of audio among different locations. 
 
@@ -16,7 +16,7 @@ For further information about ‘tpf-tools-basic’, including manuals, see:<htt
 * Go to: <>
 * Download the ' ' file.
 
-## Installation:**
+## Installation:
 
 
   ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
