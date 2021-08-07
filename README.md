@@ -12,13 +12,9 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 # tpf-tools-basic
 
 **Download:**
-* Go to: <https://github.com/zhdk/tpf-client/releases/tag/party-v1.1.1>
-* Download the 'tpf-party-v1.1.1.dmg' file.
-
+* Go to:
 **Installation:**
-* Open the 'tpf-party-v1.1.1.dmg' file.
-* Drag the 'tpf-party.app' to your 'application folder' and drop it there.
-* Open the 'tpf-party.app' with the right mouse button, or with 'Ctrl & Click'.
+
 
 More information and instructions can be found at:<https://networkperformance.space>
 
