@@ -7,12 +7,9 @@ For further information about **‘tpf-tools-basic’**, including manuals, see:
 
 ## Authors:
 
-• Roman Haefeli <roman.haefeli@zhdk.ch>
-
-• Johannes Schütt <johannes.schuett@zhdk.ch>
-
-• TPF-Team @ Zurich University of the Arts (ZHdK)
-
+* Roman Haefeli <roman.haefeli@zhdk.ch>
+* Johannes Schütt <johannes.schuett@zhdk.ch>
+* TPF-Team @ Zurich University of the Arts (ZHdK)
 
 ## License
 GPL 3.0 (view LICENSE.txt)
