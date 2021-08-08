@@ -1,8 +1,7 @@
-# tpf-installers
-
 # Installers for the tpf-tools v1.1.1
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
+* **_tpf-tools-advanced_** --> coming soon...
 
 ## Important
 
@@ -13,22 +12,18 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 # tpf-tools-basic
 
 **Download:**
-* Go to: <https://github.com/zhdk/tpf-client/releases/tag/party-v1.1.1>
-* Download the 'tpf-party-v1.1.1.dmg' file.
-
+* Go to:
 **Installation:**
-* Open the 'tpf-party-v1.1.1.dmg' file.
-* Drag the 'tpf-party.app' to your 'application folder' and drop it there.
-* Open the 'tpf-party.app' with the right mouse button, or with 'Ctrl & Click'.
+
 
 More information and instructions can be found at:<https://networkperformance.space>
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
 -----
-## tpf-tools-basic v1.1.1
 
-## tpf-tools-intermediate v1.1.1
+
+# tpf-tools-intermediate 
 
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>

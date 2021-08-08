@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>font</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>tpf-party</string>
+	<key>CFBundleExecutable</key>
+	<string>Pd</string>
+	<key>CFBundleIconFile</key>
+	<string>tpf-client.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.puredata.pd.pd-gui</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>tpf-party</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>party-v1.1.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSpokenName</key>
+	<string>tpf-party</string>
+	<key>CFBundleVersion</key>
+	<string>party-v1.1.1</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access is required for live video input.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access is required for audio input.</string>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<true/>
+</dict>
+</plist>
