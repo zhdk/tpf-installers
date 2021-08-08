@@ -11,13 +11,15 @@ For further information about ‘tpf-tools-basic’, including manuals, see: <ht
 
 ## Download:
 
-* Go to: <>
-* Download the ' ' file.
+* Go to: <v1.1.1-install-tpf-tools-basic>
+* Download the 'install_tpf-tools_basic.pkg ' file.
 
 ## Installation:
 
+* Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 
-***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
+
+  ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
 ## Start the 'tpf-tools-basic':
 
