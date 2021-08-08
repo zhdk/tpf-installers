@@ -1,6 +1,7 @@
-# tpf-tools-basic
-
+# Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 -----
+
+# tpf-tools-basic
 
 'tpf-tools-basic' is a tool for low-latency, bidirectional transmission of audio among different locations. 
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
@@ -8,13 +9,15 @@ For further information about ‘tpf-tools-basic’, including manuals, see: <ht
 
 ## Download:
 
-* Go to: <>
-* Download the ' ' file.
+* Go to: <v1.1.1-install-tpf-tools-basic>
+* Download the 'install_tpf-tools_basic.pkg ' file.
 
 ## Installation:
 
+* Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 
-***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
+
+  ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
 ## Start the 'tpf-tools-basic':
 
@@ -34,4 +37,3 @@ For further information about ‘tpf-tools-basic’, including manuals, see: <ht
 
 ## License
 GPL 3.0 (view LICENSE.txt)
-
