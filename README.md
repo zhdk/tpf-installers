@@ -12,10 +12,14 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 # tpf-tools-basic
 
 **Download:**
-* Go to:
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
+* Download the 'install-tpf-tools-basic.pkg'
+
+
 **Installation:**
-
-
+* Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
+* Right-click to open the 'tpf-party.app'.
+* 
 More information and instructions can be found at:<https://networkperformance.space>
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
