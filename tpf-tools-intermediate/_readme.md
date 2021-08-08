@@ -1,26 +1,30 @@
-## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
-
------
+# tpf-tools-intermediate
 
 ‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video. 
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
+-----
 
 ### Important
 
-
-Make sure that you have installed jack2 for osx!
-
-Make sure that you have created an 'aggregate - device' in the ‘Audio MIDI Setup !
-
-For further information about ‘tpf-tools-intermediate’, including manuals, 
-see: 
-
-<https://networkperformance.space>.
+* Make sure that you have installed jack2 for osx!
+* Make sure that you have created an 'aggregate - device' in the ‘Audio MIDI Setup !
 
 
-----
+## Download:
 
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
+* Download the 'install-tpf-tools-intermediate.pkg'
+
+
+## Installation:
+
+* Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
+* Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
+
+More information and instructions can be found at:<https://networkperformance.space>
+
+-----
 
 ## Content of tpf-tools-intermediate:
 

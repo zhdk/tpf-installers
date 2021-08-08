@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.10)  4 AUG 2021 12:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.10)  8 AUG 2021 13:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -361,33 +361,29 @@ LaTeX Info: Redefining \nameref on input line 14.
 \@outlinefile=\write3
 \openout3 = `_readme.out'.
 
-
-Overfull \hbox (12.96333pt too wide) in paragraph at lines 16--16
-[][]\TU/HelveticaNeue(0)/b/n/17.28 Institute for Computer Music and Sound Technology (ICST) / Zurich
- []
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
 
+
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
  (/Users/jschuet1/Documents/GitHub/tpf-installers/tpf-tools-intermediate/.texpadtmp/_readme.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `_readme.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 11260 strings out of 479418
- 221915 string characters out of 5884585
+ 11264 strings out of 479418
+ 222050 string characters out of 5884585
  527319 words of memory out of 5000000
- 28668 multiletter control sequences out of 15000+600000
- 532834 words of font info for 42 fonts, out of 8000000 for 9000
+ 28670 multiletter control sequences out of 15000+600000
+ 532850 words of font info for 44 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,5n,70p,256b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,4n,70p,256b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/jschuet1/Documents/GitHub/tpf-installers/tpf-tools-intermediate/.texpadtmp/_readme.pdf (3 pages).
