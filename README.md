@@ -19,7 +19,7 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 * Right-click to open the 'tpf-party.app'.
-* 
+
 More information and instructions can be found at:<https://networkperformance.space>
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
@@ -36,8 +36,9 @@ More information and instructions can be found at:<https://networkperformance.sp
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
+* Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
 
------
+More information and instructions can be found at:<https://networkperformance.space>
 
 **New**
 * removed 'jmess' from the tpf tools. 
@@ -55,6 +56,6 @@ More information and instructions can be found at:<https://networkperformance.sp
 * new 'tpf-tools-intermediate v1.1.1.pkg'
 * Midi-controllers works now!
 
-
-  
 ----
+## License
+GPL 3.0 (view LICENSE.txt)
