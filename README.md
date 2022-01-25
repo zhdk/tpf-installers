@@ -1,7 +1,7 @@
 ## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
-# Installers for the tpf-tools v1.1.2
+# Installers for the tpf-tools 
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
 * **_tpf-tools-advanced_** --> coming soon...
