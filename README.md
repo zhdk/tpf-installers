@@ -29,35 +29,17 @@ More information and instructions can be found at:<https://networkperformance.sp
 
 -----
 
-
 # tpf-tools-intermediate 
 
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
 * Download the 'install-tpf-tools-intermediate.pkg'
 
-
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
 * Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
 
 More information and instructions can be found at:<https://networkperformance.space>
-
-**New**
-* removed 'jmess' from the tpf tools. 
-* removed the 'tpf-audio-connections' 
-* removed the 'tpf-load-audio.command'.
-* removed the 'tpf-save-audio.command'.
-* added the 'TPF-Client.app compiled for 'jack2'. 
-* added the 'TPF-Party.app compiled for 'jack2'. 
-* updated the 'uninstaller-tpf-jack2.command'.
-* updated the 'uninstall-tpf-tools-intermediate.command'.
-* updated the 'tpf-audio-runner.command'.
-* new 'tpf-video-runner.command'.
-* new 'install.txt'.
-* new 'readme.md and readme.pdf.
-* new 'tpf-tools-intermediate v1.1.1.pkg'
-* Midi-controllers works now!
 
 ----
 ## License
