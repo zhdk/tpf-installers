@@ -4,7 +4,7 @@
 # Installers for the tpf-tools 
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
-* **_tpf-tools-advanced_** --> coming soon...
+* **tpf-tools-advanced** --> coming soon...
 
 ## Important
 
@@ -23,7 +23,7 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 * Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 * Right-click to open the 'tpf-party.app'.
 
-More information and instructions can be found at:<https://networkperformance.space>
+More information and instructions can be found at:<https://networkperformance.space/tpf-basic/>
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
@@ -39,7 +39,21 @@ More information and instructions can be found at:<https://networkperformance.sp
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
 * Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
 
-More information and instructions can be found at:<https://networkperformance.space>
+More information and instructions can be found at:<https://networkperformance.space/c1-tpf-intermediate-download-installation-and-pre-configuration/>
+
+-----
+
+# tpf-tools-advanced
+
+**Download:**
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
+* Download the 'install-tpf-tools-advanced.pkg'
+
+**Installation:**
+* Right-click to open the 'install-tpf-tools-advanced.pkg' and follow the instructions of the installer.
+* Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
+
+More information and instructions can be found at:<https://networkperformance.space/d1-tpf-advanced-introduction-download-and-installation/>
 
 ----
 ## License
