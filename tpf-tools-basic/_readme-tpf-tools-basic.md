@@ -1,10 +1,10 @@
 # tpf-tools-basic
 ----
 'tpf-tools-basic' is a tool for low-latency, bidirectional transmission of audio among different locations. 
-Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
-For further information about ‘tpf-tools-basic’, including manuals, see: <https://networkperformance.space>.
+Version 1.1.2 is compatible with macOS 10.14+ (only Intel).
+For further information about ‘tpf-tools-basic’, including manuals, see: <https://networkperformance.space/tpf-basic/>.
 ## Download:
-* Go to: <v1.1.1-install-tpf-tools-basic>
+* Go to: <install-tpf-tools-basic> v1.1.2
 * Download the 'install_tpf-tools_basic.pkg ' file.
 ## Installation:
 * Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.

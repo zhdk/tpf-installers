@@ -15,8 +15,7 @@ Make sure that you have installed **JACK2**; for download and installation see: 
 # tpf-tools-basic
 
 **Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
-* Download the 'install-tpf-tools-basic.pkg'
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-basic.pkg'
 
 
 **Installation:**
@@ -32,8 +31,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 # tpf-tools-intermediate 
 
 **Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
-* Download the 'install-tpf-tools-intermediate.pkg'
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-intermediate.pkg'
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
@@ -46,8 +44,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 # tpf-tools-advanced
 
 **Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases>
-* Download the 'install-tpf-tools-advanced.pkg'
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-advanced.pkg'
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-advanced.pkg' and follow the instructions of the installer.
