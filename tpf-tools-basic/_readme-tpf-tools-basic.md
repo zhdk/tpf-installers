@@ -22,8 +22,9 @@ By clicking on it, a connection is established.
 ## Authors
 
 - Roman Haefeli [roman.haefeli@zhdk.ch](mailto:roman.haefeli@zhdk.ch)
-- Johannes Schütt j[ohannes.schuett@zhdk.ch
+- Johannes Schütt [johannes.schuett@zhdk.ch](mailto:johannes.schuett@zhdk.ch)
 - TPF-Team @ Zurich University of the Arts (ZHdK)
+
 
 ## License
 
