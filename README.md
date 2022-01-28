@@ -1,10 +1,12 @@
-## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
+## Readme for the 'tpf-tools installers'
+
+Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
 # Installers for the tpf-tools 
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
-* **tpf-tools-advanced** --> coming soon...
+* **tpf-tools-advanced**
 
 ## Important
 
@@ -22,7 +24,7 @@ a
 * Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 * Right-click to open the 'tpf-party.app'.
 
-More information and instructions can be found at:<https://networkperformance.space/tpf-basic/>
+More information and instructions can be found at:<https://networkperformance.space/tpf-basic/>.
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
@@ -37,7 +39,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
 * Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
 
-More information and instructions can be found at:<https://networkperformance.space/c1-tpf-intermediate-download-installation-and-pre-configuration/>
+More information and instructions can be found at:<https://networkperformance.space/c1-tpf-intermediate-download-installation-and-pre-configuration/>.
 
 -----
 
@@ -50,7 +52,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 * Right-click to open the 'install-tpf-tools-advanced.pkg' and follow the instructions of the installer.
 * Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
 
-More information and instructions can be found at:<https://networkperformance.space/d1-tpf-advanced-introduction-download-and-installation/>
+More information and instructions can be found at:<https://networkperformance.space/d1-tpf-advanced-introduction-download-and-installation/>.
 
 ----
 ## License
