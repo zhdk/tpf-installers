@@ -86,8 +86,6 @@ see <https://networkperformance.space/a-introduction>.
 **TPF-Client**
 <https://github.com/zhdk/tpf-client>
 
-<https://networkperformance.space/a-introduction> (including manuals)
-
 
 **LoudMax** (VST/VST3/AU)
 
