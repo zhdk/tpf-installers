@@ -1,0 +1,1 @@
+/Applications/uv-qt.app/Contents/MacOS/uv --capture-filter preview -t avfoundation:device=2:mode=13:fps=30:preset=high -c libavcodec:codec=H.264:bitrate=5M -d multiplier:gl#preview -f rs:200:220 -P 5016  telematic.zhdk.ch
