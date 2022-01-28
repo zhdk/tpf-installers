@@ -1,22 +1,18 @@
 ## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
-
-‘tpf-tools-intermediate’ is a bundle of tools for low-latency, bidirectional, multichannel transmission of audio and video. 
+‘tpf-tools-intermediate’ is a bundle of low-latency, bidirectional, multichannel audio and video transmission tools. 
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
 
 ### Important
 
-
 Make sure that you have installed jack2 for osx!
 
-Make sure that you have created an 'aggregate - device' in the ‘Audio MIDI Setup !
+Ensure that you have created an 'aggregate - device' in the ‘Audio MIDI Setup!
 
-For further information about ‘tpf-tools-intermediate’, including manuals, 
-see: 
-
-<https://networkperformance.space>.
+For further information about ‘tpf-tools-intermediate,’ including manuals, 
+see <https://networkperformance.space>.
 
 
 ----
@@ -26,15 +22,12 @@ see:
 
 
 ### Applications:
-
-
-- tpf-party (v1.1.1)
+- tpf-party (v1.1.2)
 - tpf-client (v1.1.1)
-- Ardour6.8
-- uv-qt (Ultragrid 1.6)
+- Ardour6.9
+- uv-qt (Ultragrid 1.7.2)
 
 ### Scripts:
-
 - tpf-audio-runner.command
 - tpf-video-runner.command
 
@@ -42,20 +35,17 @@ see:
 ### Folders:
 
 **tpf-settings:**
-
 - tpf-intermediate-2ch-2loc
 - tpf-intermediate-4ch-4loc
 - tpf-intermediate-default
 
 **ardour-templates:**
-
 - tpf-intermediate-2ch-2loc.ardour
 - tpf-intermediate-4ch-4loc.ardour
 - tpf-intermediate-default.ardour
 - tpf-start.ardour
 
 **tpf-video:**
-
 - camera-0.command
 - camera-1.command
 - camera-2.command
@@ -65,16 +55,12 @@ see:
 - tpf-video-runner.command
 
 **tpf-uninstallers:**
-
 - uninstall-tpf-jack2.command
 - uninstall-tpf-tools-intermediate.command
 
-
 ----
 
-
 ## Start the tpf-tools-intermediate:
-
 
 - After installation, start your session:
 
@@ -90,34 +76,23 @@ see:
 
 ### About Applications
 
-
-**Ardour 6.8**
-
-
+**Ardour 6.9**
 <https://ardour.org/>
 
-
 **Ultragrid**
-
-
 <http://www.ultragrid.cz/> 
 
 
 **TPF-Client**
-
-
 <https://github.com/zhdk/tpf-client>
-
 <https://networkperformance.space> (including manuals)
 
 
 **LoudMax** (VST/VST3/AU)
 
 Loudness Maximizer plugin by Thomas Mundt.
-
 <https://loudmax.blogspot.com> for updates.
  
-
 ----
 
 ### Authors:
