@@ -3,6 +3,7 @@
 Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
+
 # Installers for the tpf-tools 
 * **tpf-tools-basic**
 * **tpf-tools-intermediate**
@@ -10,21 +11,23 @@ Institute for Computer Music and Sound Technology (ICST) / Zurich University of 
 
 ## Important
 
-Ensure that you have installed **JACK2**; for download and installation, see https://jackaudio.org/downloads/. Sometimes it is recommended to uninstall an old JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; it only uninstalls JACK2.
+Ensure that you have installed JACK2; for download and installation, see https://jackaudio.org/downloads/. 
+Sometimes it is recommended to uninstall an old JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; 
+it only uninstalls JACK2.
 
 ----
 
 # tpf-tools-basic
-a
-**Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-basic.pkg'
 
+**Download:**
+* Go to GitHub: https://github.com/zhdk/tpf-installers/releases then "ASSETS" and download the 'install-tpf-tools-basic.pkg'
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-basic.pkg' and follow the instructions of the installer.
 * Right-click to open the 'tpf-party.app'.
 
-More information and instructions can be found at:<https://networkperformance.space/tpf-basic/>.
+More information and instructions can be found at:
+<https://networkperformance.space/a-introduction>
 
 ***Note:*** The 'tpf-party.app' is included in the 'tpf-tools-intermediate'.
 
@@ -33,14 +36,14 @@ More information and instructions can be found at:<https://networkperformance.sp
 # tpf-tools-intermediate 
 
 **Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-intermediate. pkg'
+* Go to GitHub: https://github.com/zhdk/tpf-installers/releases then "ASSETS" and download the 'install-tpf-tools-intermediate.pkg'
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
-* Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
+* Right-click to open the 'tpf-audio-runner.command' file, and follow the messages of the 'tpf-audio-runner.command' script.
 
-More information and instructions can be found at:<https://networkperformance.space/c1-tpf-intermediate-download-installation-and-pre-configuration/>.
-
+More information and instructions can be found at:
+<https://networkperformance.space/a-introduction>
 -----
 
 # tpf-tools-advanced
@@ -50,9 +53,9 @@ More information and instructions can be found at:<https://networkperformance.sp
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-advanced.pkg' and follow the instructions of the installer.
-* Right-click to open the "tpf-audio-runner.command" file, and follow the messages of the "tpf-audio-runner.command" script.
+* Right-click to open the 'tpf-audio-runner.command' file, and follow the messages of the 'tpf-audio-runner.command' script.
 
-More information and instructions can be found at:<https://networkperformance.space/d1-tpf-advanced-introduction-download-and-installation/>.
+More information and instructions can be found at:<https://networkperformance.space/a-introduction>
 
 ----
 ## License
