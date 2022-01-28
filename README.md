@@ -8,12 +8,12 @@
 
 ## Important
 
-Make sure that you have installed **JACK2**; for download and installation see: https://jackaudio.org/downloads/. Sometimes it is recommended to uninstall an old installation of JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; it only uninstalls JACK2.
+Ensure that you have installed **JACK2**; for download and installation, see https://jackaudio.org/downloads/. Sometimes it is recommended to uninstall an old JACK1 or JACK2 first. You find the script ‘uninstall-jack2-tpf.command’ in the folder ‘tpf-tools-intermediate’; it only uninstalls JACK2.
 
 ----
 
 # tpf-tools-basic
-
+a
 **Download:**
 * Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-basic.pkg'
 
@@ -31,7 +31,7 @@ More information and instructions can be found at:<https://networkperformance.sp
 # tpf-tools-intermediate 
 
 **Download:**
-* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-intermediate.pkg'
+* Go to GitHub: <https://github.com/zhdk/tpf-installers/releases> then "ASSETS" and download the 'install-tpf-tools-intermediate. pkg'
 
 **Installation:**
 * Right-click to open the 'install-tpf-tools-intermediate.pkg' and follow the instructions of the installer.
