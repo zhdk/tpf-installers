@@ -13,7 +13,7 @@ echo -e "\033[1;32m ------------------------------------------------------------
 #script
 echo -e "\033[1;32m 'tpf-video-runner.command' executes and supports the following steps:\033[0m"
 echo -e "\033[1;31m [1/1] Choosing the camera device.\033[0m"
-echo -e "\033[1;31m [1/2] Choosing the codec? \033[0m"
+echo -e "\033[1;31m [1/2] Choosing the codec. \033[0m"
 echo -e "\033[1;31m [1/3] Choosing the bitsize.\033[0m"
 echo -e "\033[1;31m [1/4] Choosing the mode.\033[0m"
 echo -e "\033[1;31m [1/5] Choosing the port.\033[0m"
