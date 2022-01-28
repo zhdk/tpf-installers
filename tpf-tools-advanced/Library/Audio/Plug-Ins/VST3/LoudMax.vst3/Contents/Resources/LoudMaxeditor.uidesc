@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vstgui-ui-description version="1">
+	<fonts>
+	</fonts>
+	<colors>
+	</colors>
+	<template autosize="left right top bottom " background-color="~ BlackCColor" background-color-draw-style="filled and stroked" bitmap="bmp00128" class="CViewContainer" maxSize="340, 215" minSize="340, 215" mouse-enabled="true" name="view" opacity="1" origin="0, 0" size="340, 215" transparent="false" wants-focus="false">
+		<view animation-index="0" animation-time="150" autosize="left right top bottom " class="CAnimationSplashScreen" default-value="0.5" max-value="1" min-value="0" mouse-enabled="true" opacity="1" origin="132, 190" size="75, 13" splash-bitmap="bmp00129" splash-origin="0, 0" splash-size="340, 215" transparent="false" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap-offset="0, 0" class="CSlider" control-tag="Thresh" default-value="1" draw-back="false" draw-back-color="~ TransparentCColor" draw-frame="true" draw-frame-color="~ TransparentCColor" draw-value="true" draw-value-color="~ TransparentCColor" draw-value-from-center="false" draw-value-inverted="false" frame-width="1" handle-bitmap="bmp00130" handle-offset="0, 0" max-value="1" min-value="0" mode="use global" mouse-enabled="true" opacity="1" orientation="horizontal" origin="26, 71" reverse-orientation="false" size="239, 17" transparent="false" wants-focus="false" wheel-inc-value="0.1" zoom-factor="10"/>
+		<view autosize="left right top bottom " bitmap-offset="0, 0" class="CSlider" control-tag="Output" default-value="1" draw-back="false" draw-back-color="~ TransparentCColor" draw-frame="true" draw-frame-color="~ TransparentCColor" draw-value="true" draw-value-color="~ TransparentCColor" draw-value-from-center="false" draw-value-inverted="false" frame-width="1" handle-bitmap="bmp00130" handle-offset="0, 0" max-value="1" min-value="0" mode="use global" mouse-enabled="true" opacity="1" orientation="horizontal" origin="26, 128" reverse-orientation="false" size="239, 17" transparent="false" wants-focus="false" wheel-inc-value="0.1" zoom-factor="10"/>
+		<view autosize="left right top bottom " bitmap="bmp00131" class="COnOffButton" control-tag="FaderLink" default-value="0" max-value="1" min-value="0" mouse-enabled="true" opacity="1" origin="123, 99" size="30, 14" transparent="false" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00132" class="COnOffButton" control-tag="ISPDetection" default-value="0" max-value="1" min-value="0" mouse-enabled="true" opacity="1" origin="160, 99" size="27, 14" transparent="false" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " class="COnOffButton" control-tag="LargeGUI" default-value="0" max-value="1" min-value="0" mouse-enabled="true" opacity="1" origin="315, 190" size="25, 25" transparent="false" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " back-color="~ BlackCColor" background-offset="0, 0" class="CParamDisplay" control-tag="Thresh" default-value="1" font="~ NormalFont" font-antialias="true" font-color="~ WhiteCColor" frame-color="~ BlackCColor" frame-width="1" max-value="1" min-value="0" mouse-enabled="true" opacity="0.5" origin="68, 99" round-rect-radius="6" shadow-color="~ BlackCColor" size="31, 13" style-3D-in="false" style-3D-out="false" style-no-draw="false" style-no-frame="false" style-no-text="false" style-round-rect="false" style-shadow-text="false" text-alignment="center" text-inset="0, 0" text-rotation="0" text-shadow-offset="1, 1" transparent="true" value-precision="2" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " back-color="~ BlackCColor" background-offset="0, 0" class="CParamDisplay" control-tag="Output" default-value="1" font="~ NormalFont" font-antialias="true" font-color="~ WhiteCColor" frame-color="~ BlackCColor" frame-width="1" max-value="1" min-value="0" mouse-enabled="true" opacity="0.5" origin="218, 99" round-rect-radius="6" shadow-color="~ BlackCColor" size="31, 13" style-3D-in="false" style-3D-out="false" style-no-draw="false" style-no-frame="false" style-no-text="false" style-round-rect="false" style-shadow-text="false" text-alignment="center" text-inset="0, 0" text-rotation="0" text-shadow-offset="1, 1" transparent="true" value-precision="2" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00133" class="CVuMeter" control-tag="VuILM" decrease-step-value="0.1" default-value="0" max-value="1" min-value="0" mouse-enabled="false" num-led="100" opacity="1" orientation="horizontal" origin="35, 29" size="221, 7" transparent="true" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00133" class="CVuMeter" control-tag="VuIRM" decrease-step-value="0.1" default-value="0" max-value="1" min-value="0" mouse-enabled="false" num-led="100" opacity="1" orientation="horizontal" origin="35, 37" size="221, 7" transparent="true" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00133" class="CVuMeter" control-tag="VuOLM" decrease-step-value="0.1" default-value="0" max-value="1" min-value="0" mouse-enabled="false" num-led="100" opacity="1" orientation="horizontal" origin="35, 167" size="221, 7" transparent="true" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00133" class="CVuMeter" control-tag="VuORM" decrease-step-value="0.1" default-value="0" max-value="1" min-value="0" mouse-enabled="false" num-led="100" opacity="1" orientation="horizontal" origin="35, 175" size="221, 7" transparent="true" wants-focus="false" wheel-inc-value="0.1"/>
+		<view autosize="left right top bottom " bitmap="bmp00135" class="CVuMeter" control-tag="VuGRM" decrease-step-value="0.1" default-value="1" max-value="1" min-value="0" mouse-enabled="false" num-led="100" off-bitmap="bmp00134" opacity="1" orientation="vertical" origin="301, 30" size="10, 151" transparent="false" wants-focus="false" wheel-inc-value="0.1"/>
+	</template>
+	<custom>
+		<attributes name="FocusDrawing"/>
+		<attributes Path="LoudMaxeditor.uidesc" name="VST3Editor"/>
+		<attributes Grids="1x 1,5x 5,10x 10,12x 12,15x 15" Size="1, 1" name="UIGridController"/>
+		<attributes SelectedTemplate="view" name="UITemplateController"/>
+		<attributes EditViewScale="2.5" EditorSize="0, 0, 1920, 1028" SplitViewSize_0_0="0.7125748502994011523981043865205720067024" SplitViewSize_0_1="0.2674650698602794585134745375398779287934" SplitViewSize_1_0="0.4870259481037924054191989853279665112495" SplitViewSize_1_1="0.507984031936127733430907937872689217329" SplitViewSize_2_0="0.7432291666666667184770744825073052197695" SplitViewSize_2_1="0.2541666666666666518636930049979127943516" TabSwitchValue="1" Version="1" name="UIEditController"/>
+		<attributes name="UIAttributesController"/>
+		<attributes SelectedRow="13" name="UIViewCreatorDataSource"/>
+		<attributes SelectedRow="3" name="UIBitmapsDataSource"/>
+		<attributes SelectedRow="-1" name="UITagsDataSource"/>
+	</custom>
+	<bitmaps>
+		<bitmap name="bmp00128" path="bmp00128.png"/>
+		<bitmap name="bmp00129" path="bmp00129.png"/>
+		<bitmap name="bmp00130" path="bmp00130.png"/>
+		<bitmap name="bmp00131" path="bmp00131.png"/>
+		<bitmap name="bmp00132" path="bmp00132.png"/>
+		<bitmap name="bmp00133" path="bmp00133.png"/>
+		<bitmap name="bmp00134" path="bmp00134.png"/>
+		<bitmap name="bmp00135" path="bmp00135.png"/>
+	</bitmaps>
+	<control-tags>
+		<control-tag name="FaderLink" tag="2"/>
+		<control-tag name="ISPDetection" tag="3"/>
+		<control-tag name="LargeGUI" tag="4"/>
+		<control-tag name="Output" tag="1"/>
+		<control-tag name="Thresh" tag="0"/>
+		<control-tag name="VuGRM" tag="9"/>
+		<control-tag name="VuILM" tag="5"/>
+		<control-tag name="VuIRM" tag="6"/>
+		<control-tag name="VuOLM" tag="7"/>
+		<control-tag name="VuORM" tag="8"/>
+	</control-tags>
+</vstgui-ui-description>

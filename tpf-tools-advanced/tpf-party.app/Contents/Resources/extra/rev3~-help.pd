@@ -1,0 +1,115 @@
+#N canvas 755 89 729 523 12;
+#X obj 48 405 rev3~ 100 90 3000 20;
+#X text 336 127 The creation arguments (level \, liveness \, crossover
+frequency \, HF damping) may also be supplied in four inlets as shown.
+The "liveness" (actually the internal feedback percentage) should be
+100 for infinite reverb \, 90 for longish \, and 80 for short. The
+crossover frequency and HF damping work together: at frequencies above
+crossover \, the feedback is diminished by the "damping" as a percentage.
+So zero HF damping means equal reverb time at all frequencies \, and
+100% damping means almost nothing above the crossover frequency gets
+through., f 50;
+#X text 325 102 (A more expensive \, presumably better \, one than
+rev2~.);
+#X text 446 466 modified for Pd version 0.37-1;
+#X obj 57 23 rev3~, f 9;
+#X text 134 22 - hard-core \, 2-in \, 4-out reverberator;
+#X obj 48 124 metro 2000;
+#X obj 48 152 bng 15 250 50 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000;
+#X obj 48 100 tgl 15 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X msg 136 97 20;
+#X msg 145 120 100;
+#X msg 158 167 1000;
+#X floatatom 136 198 5 0 0 0 - - - 0;
+#X msg 152 144 500;
+#X floatatom 92 198 5 0 0 0 - freq - 0;
+#X text 88 177 pitch;
+#X text 67 151 impulse;
+#N canvas 863 156 393 438 test-input 0;
+#X obj 241 191 line~;
+#X obj 241 214 cos~;
+#X obj 252 96 loadbang;
+#X msg 252 121 -0.25;
+#X obj 241 237 *~ 0.1;
+#X msg 240 69 -0.25 \, 0.25 \$1;
+#X obj 240 31 inlet;
+#X obj 184 69 mtof;
+#X obj 153 134 *~;
+#X obj 202 199 *~;
+#X obj 135 221 *~;
+#X obj 183 321 *~;
+#X obj 184 31 inlet;
+#X obj 183 395 outlet~;
+#X obj 184 96 osc~;
+#X obj 183 359 hip~ 5;
+#X obj 41 31 inlet;
+#X obj 41 156 samplerate~;
+#X obj 41 207 /;
+#X msg 41 181 1000 \$1;
+#X obj 41 259 vline~;
+#X msg 41 233 1 \, 0 0 \$1;
+#X connect 0 0 1 0;
+#X connect 1 0 4 0;
+#X connect 2 0 3 0;
+#X connect 3 0 0 0;
+#X connect 4 0 11 1;
+#X connect 5 0 0 0;
+#X connect 6 0 5 0;
+#X connect 7 0 14 0;
+#X connect 8 0 10 0;
+#X connect 8 0 10 1;
+#X connect 8 0 11 0;
+#X connect 8 0 9 0;
+#X connect 9 0 11 0;
+#X connect 10 0 11 0;
+#X connect 11 0 15 0;
+#X connect 12 0 7 0;
+#X connect 14 0 8 0;
+#X connect 14 0 8 1;
+#X connect 14 0 11 0;
+#X connect 14 0 9 1;
+#X connect 15 0 13 0;
+#X connect 16 0 17 0;
+#X connect 17 0 19 0;
+#X connect 18 0 21 0;
+#X connect 19 0 18 0;
+#X connect 20 0 13 0;
+#X connect 21 0 20 0;
+#X restore 48 235 pd test-input;
+#X text 181 94 <= tone burst durtion in ms, f 14;
+#X obj 215 160 loadbang;
+#X floatatom 102 297 4 0 120 0 - - - 0;
+#X text 133 297 level \, dB;
+#X floatatom 130 321 4 0 100 0 - - - 0;
+#X text 163 321 liveness \, 0-100;
+#X floatatom 157 345 6 0 0 0 - - - 0;
+#X floatatom 185 371 4 0 100 0 - - - 0;
+#X text 205 345 crossover frequency \, Hz.;
+#X text 220 372 HF damping \, percent;
+#X text 563 341 see also:;
+#X obj 569 397 rev3~, f 8;
+#X obj 569 367 rev2~, f 7;
+#X msg 215 186 \; freq 69;
+#X obj 42 437 output~;
+#X obj 134 437 output~;
+#X connect 0 0 32 0;
+#X connect 0 1 32 1;
+#X connect 0 2 33 0;
+#X connect 0 3 33 1;
+#X connect 6 0 7 0;
+#X connect 7 0 17 0;
+#X connect 8 0 6 0;
+#X connect 9 0 12 0;
+#X connect 10 0 12 0;
+#X connect 11 0 12 0;
+#X connect 12 0 17 2;
+#X connect 13 0 12 0;
+#X connect 14 0 17 1;
+#X connect 17 0 0 0;
+#X connect 19 0 31 0;
+#X connect 20 0 0 2;
+#X connect 22 0 0 3;
+#X connect 24 0 0 4;
+#X connect 25 0 0 5;

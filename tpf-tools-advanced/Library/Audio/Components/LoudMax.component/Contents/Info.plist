@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>LoudMax</string>
+			<key>factoryFunction</key>
+			<string>AUWrapperFactory</string>
+			<key>manufacturer</key>
+			<string>Mndt</string>
+			<key>name</key>
+			<string>Thomas Mundt: LoudMax</string>
+			<key>subtype</key>
+			<string>LdMx</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<integer>75520</integer>
+		</dict>
+	</array>
+	<key>AudioUnit SupportedNumChannels</key>
+	<array>
+		<dict>
+			<key>Inputs</key>
+			<string>2</string>
+			<key>Outputs</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>Inputs</key>
+			<string>1</string>
+			<key>Outputs</key>
+			<string>1</string>
+		</dict>
+	</array>
+	<key>AudioUnit Version</key>
+	<string>0x012700</string>
+	<key>BuildMachineOSBuild</key>
+	<string>20B29</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>LoudMax</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ThomasMundt.LoudMax</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LoudMax</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>LdMx</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.39</string>
+	<key>CSResourcesFileMapped</key>
+	<string>yes</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>12D4e</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>11.1</string>
+	<key>DTSDKBuild</key>
+	<string>20C63</string>
+	<key>DTSDKName</key>
+	<string>macosx11.1</string>
+	<key>DTXcode</key>
+	<string>1240</string>
+	<key>DTXcodeBuild</key>
+	<string>12D4e</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.10</string>
+</dict>
+</plist>
