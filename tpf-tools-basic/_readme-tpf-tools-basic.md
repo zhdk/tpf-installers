@@ -1,6 +1,8 @@
 # tpf-tools-basic
 Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
+----
+
 ‘TPF-Tools’ is a bundle of tools for low-latency, bidirectional audio transmission among different locations. Version 1.1.2 is compatible with macOS 10.14+ (only Intel).
 
 For further information about ‚tpf-tools-basic,’ including manuals, see [https://networkperformance.space/a-introduction](https://networkperformance.space/a-introduction).
