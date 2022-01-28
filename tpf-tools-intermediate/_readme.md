@@ -1,6 +1,8 @@
-## Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
+# tpf-tools-intermediate
+Institute for Computer Music and Sound Technology (ICST) / Zurich University of the Arts
 
 -----
+
 ‘tpf-tools-intermediate’ is a bundle of low-latency, bidirectional, multichannel audio and video transmission tools. 
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
