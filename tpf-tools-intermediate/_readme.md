@@ -12,7 +12,7 @@ Make sure that you have installed jack2 for osx!
 Ensure that you have created an 'aggregate - device' in the ‘Audio MIDI Setup!
 
 For further information about ‘tpf-tools-intermediate,’ including manuals, 
-see <https://networkperformance.space>.
+see <https://networkperformance.space/a-introduction>.
 
 
 ----
