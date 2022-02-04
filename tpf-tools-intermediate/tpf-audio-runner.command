@@ -2,12 +2,12 @@
 reset
 #########################################################################################################################
 # The script 'tpf-audio-runner.command' 																											 
-# 'tpf-audio-runner.command' opens all necessary preconfigured audio tools for your intermediated session. 										 
+# 'tpf-audio-runner.command' opens all necessary preconfigured audio tools for your advanced session. 										 
 # ©2018-2021 Johannes Schuett and the TPF-Team @ Zurich University of the Arts																				
 ##########################################################################################################################
 echo -e "\033[1;32m The script 'tpf-audio-runner.command’ opens all necessary audio tools for your telematic session.\033[0m" 
 echo -e "\033[1;32m Detailed information can be found here: \033[0m" 
-echo -e "\033[1;34m https://networkperformance.space \033[0m" 
+echo -e "\033[1;34m <https://networkperformance.space/a-introduction> \033[0m" 
 echo    "©2018-2021 Johannes Schuett and the TPF-Team @ Zurich University of the Arts"
 echo "--------------------------------------------------------------------------------------------------------------------"
 
