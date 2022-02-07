@@ -28,7 +28,7 @@ reset
 echo -e "\033[1;31m [1/1] First, the script opens the Digital Audio Workstation ‘Ardour6’ from ‘Applications’.\033[0m"
 echo -e "\033[1;32m The ‘Audio/MIDI Setup’ window opens. Choose the Audio System ‘Jack’ and your ‘Aggregate Device’ as your Device. \033[0m"
 echo -e "\033[1;32m Then press ’Start’. Ardour opens with the template ’start-tpf.ardour’ from the folder ‘ardour-templates’. \033[0m"
-open /Applications/tpf-tools-advanced/tpf-templates-advanced/tpf-start/tpf-start.ardour
+open /Applications/tpf-tools-advanced/ardour-templates/tpf-start/tpf-start.ardour
 echo "--------------------------------------------------------------------------------------------------------------------"
 while true; do
     read -p "Has Ardour opened?  [y/n] " answer
