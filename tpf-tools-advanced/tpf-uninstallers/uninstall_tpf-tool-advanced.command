@@ -40,62 +40,26 @@ cd /Library/Audio/Plug-Ins/VST3/
 ls -1
 sudo rm -r AmbiDecoder_O1_64CH.vst3
 sudo rm -r AmbiDecoder_O1_8CH.vst3
-sudo rm -r AmbiDecoder_O2_64CH.vst3
-sudo rm -r AmbiDecoder_O3_64CH.vst3
-sudo rm -r AmbiDecoder_O4_64CH.vst3
-sudo rm -r AmbiDecoder_O5_64CH.vst3
-sudo rm -r AmbiDecoder_O6_64CH.vst3
-sudo rm -r AmbiDecoder_O7_64CH.vst3
 sudo rm -r AmbiEncoder_O1_1CH.vst3
 sudo rm -r AmbiEncoder_O1_64CH.vst3
 sudo rm -r AmbiEncoder_O1_8CH.vst3
-sudo rm -r AmbiEncoder_O2_1CH.vst3
-sudo rm -r AmbiEncoder_O2_64CH.vst3
-sudo rm -r AmbiEncoder_O3_1CH.vst3
-sudo rm -r AmbiEncoder_O3_64CH.vst3
-sudo rm -r AmbiEncoder_O4_1CH.vst3
-sudo rm -r AmbiEncoder_O4_64CH.vst3
-sudo rm -r AmbiEncoder_O5_1CH.vst3
-sudo rm -r AmbiEncoder_O5_64CH.vst3
-sudo rm -r AmbiEncoder_O6_1CH.vst3
-sudo rm -r AmbiEncoder_O6_64CH.vst3
-sudo rm -r AmbiEncoder_O7_1CH.vst3
-sudo rm -r /Library/Audio/Plug-Ins/VST3/AmbiEncoder_O7_64CH.vst3 
-sudo rm -r /Library/Audio/Plug-Ins/VST3/Sennheiser\ AMBEO\ A-B\ format\ converter.vst3
 sudo rm -r /Library/Audio/Plug-Ins/VST3/dearVR\ AMBI\ MICRO.vst3
-sudo rm -r /Library/Audio/Plug-Ins/VST/Sennheiser\ AMBEO\ A-B\ format\ converter.vst
+sudo rm -r /Library/Audio/Plug-Ins/VST3/LoudMax.vst3 
+cd /Library/Audio/Plug-Ins/VST/
+ls -1
 sudo rm -r /Library/Audio/Plug-Ins/VST/dearVR\ AMBI\ MICRO.vst
-sudo rm -r /Library/Audio/Plug-Ins/VST/IEM 
-sudo rm -r /Library/Audio/Plug-Ins/VST/JACK-insert.vst
+sudo rm -r /Library/Audio/Plug-Ins/VST/LoudMax.vst
+sudo rm -r /Library/Audio/Plug-Ins/VST/FdnReverb.vst
+sudo rm -r /Library/Audio/Plug-Ins/VST/SceneRotator.vst 
 cd /Library/Audio/Plug-Ins/Components 
 ls -1
 sudo rm -r AmbiDecoder_O1_8CH.component
 sudo rm -r AmbiDecoder_O1_64CH.component
-sudo rm -r AmbiDecoder_O1_8CH.component
-sudo rm -r AmbiDecoder_O2_64CH.component
-sudo rm -r AmbiDecoder_O3_64CH.component
-sudo rm -r AmbiDecoder_O4_64CH.component
-sudo rm -r AmbiDecoder_O5_64CH.component
-sudo rm -r AmbiDecoder_O6_64CH.component
-sudo rm -r AmbiDecoder_O7_64CH.component
 sudo rm -r AmbiEncoder_O1_1CH.component
 sudo rm -r AmbiEncoder_O1_64CH.component
 sudo rm -r AmbiEncoder_O1_8CH.component
-sudo rm -r AmbiEncoder_O2_1CH.component
-sudo rm -r AmbiEncoder_O2_64CH.component
-sudo rm -r AmbiEncoder_O3_1CH.component
-sudo rm -r AmbiEncoder_O3_64CH.component
-sudo rm -r AmbiEncoder_O4_1CH.component
-sudo rm -r AmbiEncoder_O4_64CH.component
-sudo rm -r AmbiEncoder_O5_1CH.component
-sudo rm -r AmbiEncoder_O5_64CH.component
-sudo rm -r AmbiEncoder_O6_1CH.component
-sudo rm -r AmbiEncoder_O6_64CH.component
-sudo rm -r AmbiEncoder_O7_1CH.component
-sudo rm -r AmbiEncoder_O7_64CH.component
-sudo rm -r JACK-insert.component
 sudo rm -r /Library/Audio/Plug-Ins/Components/dearVR\ AMBI\ MICRO.component
-sudo rm -r /Library/Audio/Plug-Ins/Components/Sennheiser\ AMBEO\ A-B\ format\ converter.component
+sudo rm -r /Library/Audio/Plug-Ins/Components/LoudMax.component 
 echo "[1/10] [DONE] "
 echo "now we uninstall all installed ambisonics plugin that the tpf-installer installed once."
 echo "unistall done!"
