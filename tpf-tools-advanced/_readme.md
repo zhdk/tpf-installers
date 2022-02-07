@@ -3,11 +3,11 @@ Institute for Computer Music and Sound Technology / (ICST) Zurich University of 
 
 ---
 
-'tpf-tools-advanced' is a bundle of low-latency, bidirectional, multichannel audio, and video transmission tools. 
+'tpf-tools-advanced' is a bundle of low-latency, bidirectional, multichannel audio, and video transmission tools, included 3D audio. 
 Version 1.1.1 is compatible with macOS 10.14+ (only Intel).
 
-"Advanced" represents modular application capabilities (simple to quite complex settings). The most important addition to "Advanced" is the ability to create 3D audio for headphones (binaural), and multichannel loudspeaker monitoring (Ambisonics).
-In addition to all the features and components of TPF-Intermediate, 'TPF-Advanced' includes free Ambisonics tools from the institutes ICST,IEM and dear-reality.  A detailed tutorial can be found on this website: <https://networkperformance.space/a-introduction>.
+'Advanced' represents modular application capabilities (simple to complex settings). The most important addition is the ability to create 3D audio for headphones (binaural) and for multichannel loudspeaker monitoring (Ambisonics).
+In addition to the features and components of TPF-Intermediate, TPF-Advanced includes free Ambisonics tools from the institutes ICST, IEM and dear-reality.  A detailed tutorial can be found on this website: <https://networkperformance.space/a-introduction>.
 
 ----
 
@@ -26,36 +26,32 @@ For further information about 'tpf-tools-advanced' including manuals, see <https
 
 - After installation, start your session:
 
-- **Audio**: double-click the file ‘tpf-audio-runner.command’ 
- 
-- Follow the instructions in the terminal window.
+**Audio**: double-click the file ‘tpf-audio-runner.command’ 
+Follow the instructions in the terminal window.
 
-- **Video**: double-click the file ‘tpf-video-runner.command’ from the ‘tpf-video’-folder. 
-
-- Follow the instructions in the terminal window.
+**Video**: double-click the file ‘tpf-video-runner.command’ from the ‘tpf-video’-folder. 
+Follow the instructions in the terminal window.
 
 ---
 
 tpf-templates introduction:
 ---
 
-In the installed folder 'tpf-advanced,' you will find the following "templates" for the DAW Ardour6.9.
-
-Folder [ardour-templates]:
-
-A part of the templates is identical to the templates in tpf-intermediate.
-The 'tpf-advanced-ambi' templates are new. These allow an easy entry into the 3D-audio mixing of the tpf-session to the formats Binaural (only headphones) and Ambisonics (3D audio with speakers).
+In the installed folder 'tpf-advanced,' you will find a number of "templates" for the DAW Ardour6.9.
+A part of the templates is identical to the templates in 'tpf-tools-intermediate'.
+The 'tpf-advanced' templates are new. These allow an easy entry into the 3D audio mixing of telematic sessions in the formats Binaural (only headphones) and Ambisonics (3D audio with speakers).
 
 The following templates are available as examples:
 - tpf-start
-- tpf-advanced-ambi-default
-- tpf-advanced-ambi-4ch_4loc
-- tpf-advanced-ambi-3ch_3loc
-- tpf-advanced-ambi-2ch_2loc
+- tpf-advanced-default
+- tpf-advanced-4ch_4loc
+- tpf-advanced-2ch_2loc
+- tpf-intermediate-default
+- tpf-intermediate-4ch_4loc
+- tpf-intermediate-2ch_2loc
 
-They correspond to the ICST Ambisonics Encoder VST3 plugin presets of the same name (tpf-ambi-preset).
+They correspond to the ICST Ambisonics Encoder VST3 plugin presets of the same name ('tpf-ambi-presets').
 
-- "ACE" is Ardour's own effects
 
 ----
 
@@ -94,8 +90,7 @@ VST3
 - AmbiDecoder_O1_64CH.vst3
 - AmbiDecoder_O1_8CH.vst3
 
-Ambisonics & Binaural Audio-Plug-Ins (free) 
-installed in --> /Library/Audio/Plug-Ins
+All Audio-Plug-Ins (free) are installed in --> /Library/Audio/Plug-Ins
 
 ### Scripts:
 - tpf-audio-runner.command
@@ -104,15 +99,29 @@ installed in --> /Library/Audio/Plug-Ins
 ### Folders:
 
 **tpf-settings:**
+- tpf-advanced-2ch-2loc
+- tpf-advanced-4ch-4loc
+- tpf-advanced-default
 - tpf-intermediate-2ch-2loc
 - tpf-intermediate-4ch-4loc
 - tpf-intermediate-default
 
 **ardour-templates:**
+- tpf-advanced-2ch-2loc.ardour
+- tpf-advanced-4ch-4loc.ardour
+- tpf-advanced-default.ardour
 - tpf-intermediate-2ch-2loc.ardour
 - tpf-intermediate-4ch-4loc.ardour
 - tpf-intermediate-default.ardour
 - tpf-start.ardour
+
+**tpf-ambi-presets:**
+- tpf-advanced-2ch-2loc-stage
+- tpf-advanced-2ch-2loc-locations
+- tpf-advanced-4ch-4loc-stage
+- tpf-advanced-4ch-4loc-locations
+- tpf-advanced-default-stage
+- tpf-advanced-default-locations
 
 **tpf-video:**
 - camera-0.command
@@ -126,10 +135,11 @@ installed in --> /Library/Audio/Plug-Ins
 **tpf-uninstallers:**
 - uninstall-tpf-jack2.command
 - uninstall-tpf-tools-advanced.command
+- uninstall-tpf-tools-intermediate.command
 
 ----
 
-The tpf-tools-advanced bundle also contains the lower level bundles:
+The 'tpf-tools-advanced' bundle also contains the lower level bundles..
 
 ### About Applications
 
