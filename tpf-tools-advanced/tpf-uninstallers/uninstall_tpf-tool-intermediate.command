@@ -108,6 +108,7 @@ sudo rm -r AmbiEncoder_O7_64CH.component
 sudo rm -r JACK-insert.component
 sudo rm -r /Library/Audio/Plug-Ins/Components/dearVR\ AMBI\ MICRO.component
 sudo rm -r /Library/Audio/Plug-Ins/Components/Sennheiser\ AMBEO\ A-B\ format\ converter.component
+sudo rm -r /Applications/tpf-tools-advanced
 echo "[1/6] [DONE] "
 echo "-----------------------------------------------------------"
 echo -e "\033[1;34m [1/11]  --> [Done] --> close.\033[0m"
