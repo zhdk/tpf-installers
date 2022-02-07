@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="tpf-intermediate-4ch-4loc" sample-rate="48000" end-is-free="1" session-range-is-free="1" id-counter="749679" name-counter="1" event-counter="18900" vca-counter="1">
+<Session version="6000" name="tpf-intermediate-4ch-4loc" sample-rate="48000" end-is-free="1" session-range-is-free="1" id-counter="772171" name-counter="1" event-counter="18908" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.5" modified-with="Ardour 6.9"/>
-  <EngineHints backend="JACK" input-device="tpf-latency" output-device="tpf-latency"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
     <Port name="MMC in" direction="input"/>
@@ -347,7 +346,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="727337" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="58564" flags="GainLike" value="0.40942943096160889"/>
+        <Controllable name="gaincontrol" id="58564" flags="GainLike" value="0.99854612350463867"/>
       </Processor>
       <Processor id="58593" name="meter-Master" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="58594" name="Master" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Master" type="main-outs" role="Main">
@@ -373,8 +372,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59123" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59123" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59125" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="727390" interpolation-style="Discrete" state="Off"/>
@@ -655,8 +654,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59174" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59174" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59176" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="727537" interpolation-style="Discrete" state="Off"/>
@@ -933,8 +932,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59225" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59225" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59227" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="727684" interpolation-style="Discrete" state="Off"/>
@@ -1210,8 +1209,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59276" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59276" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59278" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="727831" interpolation-style="Discrete" state="Off"/>
@@ -1487,8 +1486,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59327" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59327" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59329" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="727978" interpolation-style="Discrete" state="Off"/>
@@ -1764,8 +1763,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59378" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59378" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59380" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="728125" interpolation-style="Discrete" state="Off"/>
@@ -2042,8 +2041,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59429" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59429" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59431" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="728272" interpolation-style="Discrete" state="Off"/>
@@ -2319,8 +2318,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="59480" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="59480" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="59482" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="728419" interpolation-style="Discrete" state="Off"/>
@@ -5356,7 +5355,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="729890" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61387" flags="GainLike" value="1.251123309135437"/>
+        <Controllable name="gaincontrol" id="61387" flags="GainLike" value="1.0168472528457642"/>
       </Processor>
       <Processor id="149321" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -5614,7 +5613,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730017" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61438" flags="GainLike" value="1.2469323873519897"/>
+        <Controllable name="gaincontrol" id="61438" flags="GainLike" value="1.0134409666061401"/>
       </Processor>
       <Processor id="149474" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -5872,7 +5871,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730144" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61489" flags="GainLike" value="1.2511248588562012"/>
+        <Controllable name="gaincontrol" id="61489" flags="GainLike" value="1.0168488025665283"/>
       </Processor>
       <Processor id="150217" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -6130,7 +6129,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730271" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61540" flags="GainLike" value="1.2511248588562012"/>
+        <Controllable name="gaincontrol" id="61540" flags="GainLike" value="1.0168488025665283"/>
       </Processor>
       <Processor id="150252" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -6388,7 +6387,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730398" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61591" flags="GainLike" value="1.2511248588562012"/>
+        <Controllable name="gaincontrol" id="61591" flags="GainLike" value="1.0168488025665283"/>
       </Processor>
       <Processor id="150287" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -6646,7 +6645,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730525" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61642" flags="GainLike" value="1.2511248588562012"/>
+        <Controllable name="gaincontrol" id="61642" flags="GainLike" value="1.0168488025665283"/>
       </Processor>
       <Processor id="150322" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -6904,7 +6903,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730652" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61693" flags="GainLike" value="1.2511248588562012"/>
+        <Controllable name="gaincontrol" id="61693" flags="GainLike" value="1.0168488025665283"/>
       </Processor>
       <Processor id="150357" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -7162,7 +7161,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="730779" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="61744" flags="GainLike" value="1.2511247396469116"/>
+        <Controllable name="gaincontrol" id="61744" flags="GainLike" value="1.0168486833572388"/>
       </Processor>
       <Processor id="150392" name="Reverb" active="0" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="147306" allow-feedback="0">
         <Automation>
@@ -9261,7 +9260,7 @@
       <Controllable name="rec-enable" id="62232" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="62283" name="D-24" default-type="audio" strict-io="0" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Location_D" audio-playlist="62322" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="41" flags="AudioTrack,OrderSet" color="2028328703"/>
+      <PresentationInfo order="41" flags="AudioTrack,Hidden,OrderSet" color="2028328703"/>
       <Controllable name="solo" id="62291" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="62297" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="62299" flags="Toggle" value="0" solo-safe="0"/>
@@ -9519,7 +9518,7 @@
       <Controllable name="rec-enable" id="62325" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="62334" name="D-25" default-type="audio" strict-io="0" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Location_D" audio-playlist="62373" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="42" flags="AudioTrack,OrderSet" color="2498084351"/>
+      <PresentationInfo order="42" flags="AudioTrack,Hidden,OrderSet" color="2498084351"/>
       <Controllable name="solo" id="62342" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="62348" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="62350" flags="Toggle" value="0" solo-safe="0"/>
@@ -9777,7 +9776,7 @@
       <Controllable name="rec-enable" id="62376" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="62385" name="D-26" default-type="audio" strict-io="0" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Location_D" audio-playlist="62424" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="43" flags="AudioTrack,OrderSet" color="3404034815"/>
+      <PresentationInfo order="43" flags="AudioTrack,Hidden,OrderSet" color="3404034815"/>
       <Controllable name="solo" id="62393" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="62399" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="62401" flags="Toggle" value="0" solo-safe="0"/>
@@ -10035,7 +10034,7 @@
       <Controllable name="rec-enable" id="62427" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="62436" name="D-27" default-type="audio" strict-io="0" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Location_D" audio-playlist="62475" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="44" flags="AudioTrack,OrderSet" color="3849745151"/>
+      <PresentationInfo order="44" flags="AudioTrack,Hidden,OrderSet" color="3849745151"/>
       <Controllable name="solo" id="62444" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="62450" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="62452" flags="Toggle" value="0" solo-safe="0"/>
@@ -20125,7 +20124,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="737314" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="147310" flags="GainLike" value="0.57503992319107056"/>
+        <Controllable name="gaincontrol" id="147310" flags="GainLike" value="0.95290029048919678"/>
       </Processor>
       <Processor id="147340" name="meter-Reverb" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="147341" name="Reverb" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Reverb" type="main-outs" role="Main">
@@ -20215,7 +20214,7 @@
     <RouteGroup id="60930" rgba="1595677951" used-to-share-gain="0" name="Location_A" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="61086 61137 61188 61239 61290 61035 60933 60984 "/>
     <RouteGroup id="61380" rgba="3698411775" used-to-share-gain="0" name="Location_B" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="61383 61434 61485 61536 61587 61638 61689 61740 "/>
     <RouteGroup id="61830" rgba="2818577151" used-to-share-gain="0" name="Location_C" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="61833 61884 61935 61986 62037 62088 62139 62190 "/>
-    <RouteGroup id="62280" rgba="1595677951" used-to-share-gain="0" name="Location_D" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="62283 62334 62385 62436 62487 62538 62589 62640 "/>
+    <RouteGroup id="62280" rgba="1595677951" used-to-share-gain="0" name="Location_D" hidden="1" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="62283 62334 62385 62436 62487 62538 62589 62640 "/>
     <RouteGroup id="62730" rgba="3125628415" used-to-share-gain="0" name="Location_E" hidden="1" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="62733 62784 62835 62886 62937 62988 63039 63090 "/>
     <RouteGroup id="63180" rgba="2818577151" used-to-share-gain="0" name="Location_F" hidden="1" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="63183 63234 63285 63336 63387 63438 63489 63540 "/>
     <RouteGroup id="63630" rgba="1763313151" used-to-share-gain="0" name="Location_G" hidden="1" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="63633 63684 63735 63786 63837 63888 63939 63990 "/>
@@ -20327,16 +20326,12 @@
     </Protocol>
     <Protocol name="Novation Launch Control XL" feedback="0" active="0" session-state="0">
       <Input>
-        <Port name="Launch Control XL in" direction="input">
-          <Connection other="system_midi:capture_3"/>
-        </Port>
+        <Port name="Launch Control XL in" direction="input"/>
       </Input>
       <Output>
-        <Port name="Launch Control XL out" direction="output">
-          <Connection other="system_midi:playback_3"/>
-        </Port>
+        <Port name="Launch Control XL out" direction="output"/>
       </Output>
-      <Configuration fader8master="0"/>
+      <Configuration fader8master="1"/>
     </Protocol>
     <Protocol name="Open Sound Control (OSC)" active="0" session-state="0"/>
     <Protocol name="PreSonus FaderPort" active="0" session-state="0"/>
@@ -20353,10 +20348,10 @@
       <Window name="session-options-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="559"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="616" y-size="473"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="336" y-off="150" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="0" x-off="573" y-off="341" x-size="534" y-size="367"/>
+      <Window name="audio-midi-setup" visible="0" x-off="567" y-off="341" x-size="558" y-size="367"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="bundle-manager" visible="0" x-off="378" y-off="226" x-size="480" y-size="240"/>
@@ -20364,7 +20359,7 @@
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-transport" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="virtual-keyboard" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="360" y-off="0" x-size="1164" y-size="840"/>
+      <Window name="audio-connection-manager" visible="0" x-off="360" y-off="0" x-size="1344" y-size="840"/>
       <Window name="midi-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="plugin-manager" visible="0" x-off="482" y-off="236" x-size="656" y-size="600"/>
@@ -26129,22 +26124,22 @@
           </Object>
           <Object id="processor 462099"/>
         </Object>
-        <Object id="rtav 62283" height="64" visible="1"/>
+        <Object id="rtav 62283" height="64" visible="0"/>
         <Object id="automation 62287" height="64" visible="0"/>
         <Object id="automation 62289" height="64" visible="0"/>
         <Object id="automation 62283 12/0/0" height="64" visible="0"/>
         <Object id="automation 62302" height="64" visible="0"/>
-        <Object id="rtav 62334" height="64" visible="1"/>
+        <Object id="rtav 62334" height="64" visible="0"/>
         <Object id="automation 62338" height="64" visible="0"/>
         <Object id="automation 62340" height="64" visible="0"/>
         <Object id="automation 62334 12/0/0" height="64" visible="0"/>
         <Object id="automation 62353" height="64" visible="0"/>
-        <Object id="rtav 62385" height="64" visible="1"/>
+        <Object id="rtav 62385" height="64" visible="0"/>
         <Object id="automation 62389" height="64" visible="0"/>
         <Object id="automation 62391" height="64" visible="0"/>
         <Object id="automation 62385 12/0/0" height="64" visible="0"/>
         <Object id="automation 62404" height="64" visible="0"/>
-        <Object id="rtav 62436" height="64" visible="1"/>
+        <Object id="rtav 62436" height="64" visible="0"/>
         <Object id="automation 62440" height="64" visible="0"/>
         <Object id="automation 62442" height="64" visible="0"/>
         <Object id="automation 62436 12/0/0" height="64" visible="0"/>
@@ -26169,7 +26164,7 @@
         <Object id="automation 62646" height="64" visible="0"/>
         <Object id="automation 62640 12/0/0" height="64" visible="0"/>
         <Object id="automation 62659" height="64" visible="0"/>
-        <Object id="strip 62283" strip-width="Narrow" visible="1">
+        <Object id="strip 62283" strip-width="Narrow" visible="0">
           <Object id="processor 62313">
             <Object id="control 62287" visible="0"/>
           </Object>
@@ -26215,7 +26210,7 @@
           </Object>
           <Object id="processor 462218"/>
         </Object>
-        <Object id="strip 62334" visible="1" strip-width="Narrow">
+        <Object id="strip 62334" visible="0" strip-width="Narrow">
           <Object id="processor 62364">
             <Object id="control 62338" visible="0"/>
           </Object>
@@ -26261,7 +26256,7 @@
           </Object>
           <Object id="processor 462337"/>
         </Object>
-        <Object id="strip 62385" visible="1" strip-width="Narrow">
+        <Object id="strip 62385" visible="0" strip-width="Narrow">
           <Object id="processor 62415">
             <Object id="control 62389" visible="0"/>
           </Object>
@@ -26307,7 +26302,7 @@
           </Object>
           <Object id="processor 462456"/>
         </Object>
-        <Object id="strip 62436" visible="1" strip-width="Narrow">
+        <Object id="strip 62436" visible="0" strip-width="Narrow">
           <Object id="processor 62466">
             <Object id="control 62440" visible="0"/>
           </Object>
