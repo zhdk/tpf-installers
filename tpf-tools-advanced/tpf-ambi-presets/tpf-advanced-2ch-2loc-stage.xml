@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EncoderPreset>
+  <AmbiSourceSet>
+    <Sources>
+      <Source Uuid="a0ea793ca5244a18b1c675fdee7ded0e" X="-0.5079364776611328"
+              Y="0.07407402992248535" Z="-0.00218626600690186" Name="1" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="1"/>
+      <Source Uuid="5af034708c6c452f995d2555b4a5f6c1" X="0.5291004180908203"
+              Y="0.0423281192779541" Z="0.0" Name="2" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="1"/>
+      <Source Uuid="9f6a2e47697d41d6b86c0aa6acac6115" X="-0.2328041791915894"
+              Y="0.4656083583831787" Z="0.0" Name="3" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="9cc37d9c322a4fe8bf27ff9beba3193c" X="0.2645502090454102"
+              Y="0.4338624477386475" Z="0.0" Name="4" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="53ff7061b1c74d60917cad27a06793aa" X="0.1666273474693298"
+              Y="0.7444453835487366" Z="0.0" Name="5" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="cbdf2b3c04d64be7a7a011915611fff3" X="0.2333797812461853"
+              Y="0.7177446484565735" Z="0.0" Name="6" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="bbc904456a254f72b388a2c7efbfd282" X="0.2973464727401733"
+              Y="0.6783360242843628" Z="0.0" Name="7" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="9860b408a3ba485b9b5f94a3788fcc39" X="0.3346495628356934"
+              Y="0.6274681091308594" Z="0.0" Name="8" ColorCode="ff0e6e3e"
+              Gain="1.0" Enabled="0"/>
+      <Source Uuid="7dc8d94820a74e19b02a43adde9c6dad" X="0.0" Y="0.0" Z="0.0"
+              Name="9" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="a45c5c87f2c34198b3a7fd66361d9a38" X="0.0" Y="0.0" Z="0.0"
+              Name="10" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="c2865265a491498f951b14b28c5477ad" X="0.0" Y="0.0" Z="0.0"
+              Name="11" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="64cbd573be184c4396ff607f9892c75a" X="0.0" Y="0.0" Z="0.0"
+              Name="12" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="d65b99af9e7c44ad9061e4d500fa2d9f" X="0.0" Y="0.0" Z="0.0"
+              Name="13" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="128f9e7e68f14927a6ab7382b0eaeb8f" X="0.0" Y="0.0" Z="0.0"
+              Name="14" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="fd595ef6f0404f0f8bcc0f7b8a5a5185" X="0.0" Y="0.0" Z="0.0"
+              Name="15" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="58b0e7ae8c894222889a48fe5a02b170" X="0.0" Y="0.0" Z="0.0"
+              Name="16" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="44db087c69234203b646abf416a66e5c" X="0.0" Y="0.0" Z="0.0"
+              Name="17" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="e9bfb61ba49f4b20b5f84b71a144f02c" X="0.0" Y="0.0" Z="0.0"
+              Name="18" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="a3b2b888d3df43d7b91289f2d29e8d36" X="0.0" Y="0.0" Z="0.0"
+              Name="19" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="ccfe502378284ca1bbdee27e6e7a15ac" X="0.0" Y="0.0" Z="0.0"
+              Name="20" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="2fdf4f13ee474a52a2569ece0efc5a4b" X="0.0" Y="0.0" Z="0.0"
+              Name="21" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="9a9e2fa6aa8d4d08815b70b77463a837" X="0.0" Y="0.0" Z="0.0"
+              Name="22" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="100b166cece348b4be5bbea30328fcc5" X="0.0" Y="0.0" Z="0.0"
+              Name="23" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="2b0af997e90b4e7e987bfc8dcfb63982" X="0.0" Y="0.0" Z="0.0"
+              Name="24" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="8650ab97c819416595b5568197c9f02c" X="0.0" Y="0.0" Z="0.0"
+              Name="25" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="5ea3d3a2ee434ed8a246e0b613671e0f" X="0.0" Y="0.0" Z="0.0"
+              Name="26" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="8a42ccd50c304839aff762086f342ea0" X="0.0" Y="0.0" Z="0.0"
+              Name="27" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="56fc2c981ac54f64afabe42d819c1a93" X="0.0" Y="0.0" Z="0.0"
+              Name="28" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="04ebfb274d544516ae6bca555855057a" X="0.0" Y="0.0" Z="0.0"
+              Name="29" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="a434558668aa446186e1925ade7a6819" X="0.0" Y="0.0" Z="0.0"
+              Name="30" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="231aa3e390c04349b89cbeb9a131b5e2" X="0.0" Y="0.0" Z="0.0"
+              Name="31" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="24792db0371e48a6960f7f11997c978c" X="0.0" Y="0.0" Z="0.0"
+              Name="32" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="ebe6f5401f1245078c6f1d99100efec5" X="0.0" Y="0.0" Z="0.0"
+              Name="33" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="c85bf697bb79413ab04fe0887c15f786" X="0.0" Y="0.0" Z="0.0"
+              Name="34" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="90b96bd840fa4880a326433186fd62d1" X="0.0" Y="0.0" Z="0.0"
+              Name="35" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="468d4b8a7b4a45d3bbc6de9358480e8d" X="0.0" Y="0.0" Z="0.0"
+              Name="36" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="d4f2b7212dce4c13a690161451e512b2" X="0.0" Y="0.0" Z="0.0"
+              Name="37" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="c22e2c6a072646feb76950e4ae0f66bb" X="0.0" Y="0.0" Z="0.0"
+              Name="38" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="370056ef000148678e028b05c699c79b" X="0.0" Y="0.0" Z="0.0"
+              Name="39" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="1d3a466715cb47ac9225723063da399c" X="0.0" Y="0.0" Z="0.0"
+              Name="40" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="c85874f1b1c54f3387a8f7258943cc24" X="0.0" Y="0.0" Z="0.0"
+              Name="41" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="8aaac6eb353446b18c0b66c96f699c43" X="0.0" Y="0.0" Z="0.0"
+              Name="42" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="ca55c7d3dc5546e5bf24916891791025" X="0.0" Y="0.0" Z="0.0"
+              Name="43" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="837f2c9331bb43b7bac6915acb0af164" X="0.0" Y="0.0" Z="0.0"
+              Name="44" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="718b2a4fdaf74199ba06da378bc78337" X="0.0" Y="0.0" Z="0.0"
+              Name="45" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="dbd778b966244135a94d681ca8f6d748" X="0.0" Y="0.0" Z="0.0"
+              Name="46" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="ed33f4ae6693435dbc28b98646ff2570" X="0.0" Y="0.0" Z="0.0"
+              Name="47" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="aed06f8961ab4c83bda599d957234cd0" X="0.0" Y="0.0" Z="0.0"
+              Name="48" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="4a83454ab31b44efb77d790073c18290" X="0.0" Y="0.0" Z="0.0"
+              Name="49" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="94723e4cf8d844579754834d3028f6d3" X="0.0" Y="0.0" Z="0.0"
+              Name="50" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="54073660e7d3467f9343328d19a7adb3" X="0.0" Y="0.0" Z="0.0"
+              Name="51" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="7f27a8d7e61841769110ebdde02fb521" X="0.0" Y="0.0" Z="0.0"
+              Name="52" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="f04d834ccad34321a09d92298a7e5816" X="0.0" Y="0.0" Z="0.0"
+              Name="53" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="192f3957fbaa4381a56c7d74ae4baa7a" X="0.0" Y="0.0" Z="0.0"
+              Name="54" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="48cf1d9c3a28436da2dc38e4ea00f48f" X="0.0" Y="0.0" Z="0.0"
+              Name="55" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="4e07f00214854ddbac58e7ecb4438a3c" X="0.0" Y="0.0" Z="0.0"
+              Name="56" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="5e209a1361014bf39256d37ba2cfff2a" X="0.0" Y="0.0" Z="0.0"
+              Name="57" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="da1f056d7c6f4511a8f1d005c6826b5b" X="0.0" Y="0.0" Z="0.0"
+              Name="58" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="292cd537690f444f942104a15edd7ad0" X="0.0" Y="0.0" Z="0.0"
+              Name="59" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="dc35c3063e954c25ba2d3701e2926110" X="0.0" Y="0.0" Z="0.0"
+              Name="60" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="767fc88ef9c24ec2bf79405835e636a1" X="0.0" Y="0.0" Z="0.0"
+              Name="61" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="34ab37d4d1b342168764c5944a4f7d73" X="0.0" Y="0.0" Z="0.0"
+              Name="62" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="9879802577684072aa754701c635487c" X="0.0" Y="0.0" Z="0.0"
+              Name="63" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+      <Source Uuid="711a8213a7cd4a6c815e7b3d0a056714" X="0.0" Y="0.0" Z="0.0"
+              Name="64" ColorCode="ff000000" Gain="1.0" Enabled="0"/>
+    </Sources>
+    <Groups/>
+  </AmbiSourceSet>
+  <EncoderSettings>
+    <DistanceEncoding Enable="0" DistEncMode="1" UnitCircleRadius="0.711899995803833"
+                      DistEncDbUnit="10.0" DistEncDistanceAttenuation="5.0" DistEncCenterCurve="0.01999999955296516"
+                      DistEncAdvancedFactor="1.0" DistEncAdvancedExponent="1.0" AirAbsorbtionMode="0"
+                      AirAbsorbtionIntensity="0.9999999403953552"/>
+    <DopplerEncoding Enable="0" DistanceScaler="2.0"/>
+    <MasterGain Value="0.0"/>
+  </EncoderSettings>
+</EncoderPreset>

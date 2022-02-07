@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
-  <LastUsedSnapshot name="tpf-advanced-ambi-3ch_3loc"/>
-  <Main x="27" y="174" w="1652" h="801" current-tab="mixer"/>
+  <LastUsedSnapshot name="tpf-advanced-ambi-4ch_4loc"/>
+  <Main x="28" y="232" w="1652" h="801" current-tab="mixer"/>
   <Editor id="41" edit-horizontal-pane-pos="0.76070040464401245" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="2048" grid-type="GridTypeNone" snap-mode="SnapOff" internal-grid-type="GridTypeBeat" internal-snap-mode="SnapOff" pre-internal-grid-type="GridTypeNone" pre-internal-snap-mode="SnapOff" edit-point="EditAtMouse" visible-track-count="-1" playhead="13317248" left-frame="0" y-origin="0" maximised="0" follow-playhead="1" stationary-playhead="0" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="0" show-editor-list="0" editor-list-page="0" show-marker-lines="0" show-touched-automation="0" nudge-clock-value="240000">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
-    <Selection/>
+    <Selection>
+      <StripableView id="359375"/>
+    </Selection>
     <RegionList/>
     <EditorLocations clock-mode="Timecode"/>
   </Editor>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EncoderPreset>
+  <AmbiSourceSet>
+    <Sources>
+      <Source Uuid="f0819d4f17694eb3b1bb201be8067a08" X="0.0" Y="0.0" Z="0.0"
+              Name="1" ColorCode="ff0000ff" Gain="1.0" Enabled="1"/>
+    </Sources>
+    <Groups/>
+  </AmbiSourceSet>
+  <EncoderSettings>
+    <DistanceEncoding Enable="1" DistEncMode="1" UnitCircleRadius="0.1000000014901161"
+                      DistEncDbUnit="10.0" DistEncDistanceAttenuation="5.0" DistEncCenterCurve="0.01999999955296516"
+                      DistEncAdvancedFactor="1.0" DistEncAdvancedExponent="1.0" AirAbsorbtionMode="0"
+                      AirAbsorbtionIntensity="1.0"/>
+    <DopplerEncoding Enable="0" DistanceScaler="1.0"/>
+    <MasterGain Value="0.0"/>
+  </EncoderSettings>
+</EncoderPreset>
