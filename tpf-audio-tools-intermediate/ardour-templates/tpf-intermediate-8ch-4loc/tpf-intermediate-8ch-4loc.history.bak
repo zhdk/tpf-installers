@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1671025758" tv-usec="894093" name="Datei einfügen"/>
+  <UndoTransaction tv-sec="1671025777" tv-usec="437154" name="Region ziehen"/>
+  <UndoTransaction tv-sec="1671025883" tv-usec="143254" name="Schleife aus Region erstellen"/>
+</UndoHistory>
